@@ -1,16 +1,26 @@
-url: https://actif-cea.github.io/
-baseurl: /
+# url: https://actif-cea.github.io/
+url: 127.0.0.1:4000/
+# baseurl: /
+baseurl: #
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
+title: ACTIF CEA
+email: actif.cea@gmail.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
+# Lang Translation
+translate_langs:
+  - lang: en
+    img: https://cdn.countryflags.com/thumbs/united-states-of-america/flag-400.png
+    text: English
+  - lang: fr
+    img: https://cdn.countryflags.com/thumbs/france/flag-400.png
+    text: French
 
 # Team names, titles and social links
 people:
 - name: Kay Garland
-  pic: 1
+  pic: 1s
   position: Lead Designer
   social:
     - title: twitter
