@@ -22,6 +22,10 @@ body {
     color: #777;
 }
 
+.text-white {
+    color: #fff;
+}
+
 .text-primary {
     color: #B20E0C;
 }

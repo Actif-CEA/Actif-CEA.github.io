@@ -1,15 +1,15 @@
 ---
-title: TRALLALALA
-subtitle: Graphic Design
+title: Agir 
+subtitle: Colloque Climat Energie
 layout: default
-modal-id: 7
+modal-id: 8
 date: 2021-07-15
 img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+thumbnail: colloque-agir-thumbnail.jpg
 alt: image-alt
-project-date: 2023-07-15
-location: Start Bootstrap
-category: Web Development
+project-date: 2022-09-15
+location: ???
+category: ???
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---
