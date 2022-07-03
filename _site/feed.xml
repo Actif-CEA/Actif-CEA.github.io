@@ -5,30 +5,17 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 01 Jul 2022 00:11:37 +0200</pubDate>
-    <lastBuildDate>Fri, 01 Jul 2022 00:11:37 +0200</lastBuildDate>
+    <pubDate>Sun, 03 Jul 2022 15:11:06 +0200</pubDate>
+    <lastBuildDate>Sun, 03 Jul 2022 15:11:06 +0200</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
-        <title>Agir</title>
+        <title>Fête de la musique</title>
         <description>
 </description>
-        <pubDate>Thu, 15 Jul 2021 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/???/2021/07/15/project-8/</link>
-        <guid isPermaLink="true">http://localhost:4000/???/2021/07/15/project-8/</guid>
-        
-        
-        <category>???</category>
-        
-      </item>
-    
-      <item>
-        <title>Journée des associations</title>
-        <description>
-</description>
-        <pubDate>Thu, 15 Jul 2021 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/communication/2021/07/15/project-7/</link>
-        <guid isPermaLink="true">http://localhost:4000/communication/2021/07/15/project-7/</guid>
+        <pubDate>Fri, 24 Jun 2022 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/communication/2022/06/24/project-3/</link>
+        <guid isPermaLink="true">http://localhost:4000/communication/2022/06/24/project-3/</guid>
         
         
         <category>Communication</category>
@@ -36,77 +23,132 @@
       </item>
     
       <item>
-        <title>Dreams</title>
-        <description>
+        <title>Agir</title>
+        <description>&lt;p&gt;L’INSTN organise le colloque “Climat et énergie: Agir pour un développement durable” à destination des étudiants, des doctorants et des jeunes ingénieurs. Il aura lieu dans l’amphithéâtre de l’INSTN le 15/09/2022. Deux sessions identiques auront lieu de 8h30 à 12h et de 13h à 16h30.&lt;/p&gt;
+
+&lt;p&gt;Le programme est le suivant:&lt;/p&gt;
+&lt;div class=&quot;table-responsive&quot;&gt;
+    &lt;table class=&quot;table table-striped table-hover&quot;&gt;
+    &lt;thead&gt;
+        &lt;tr&gt;
+        &lt;th scope=&quot;col&quot;&gt;Heure&lt;/th&gt;
+        &lt;th scope=&quot;col&quot;&gt;Programme&lt;/th&gt;
+        &lt;th scope=&quot;col&quot;&gt;Intervenant&lt;/th&gt;
+        &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;
+            &lt;td colspan=&quot;3&quot;&gt;&lt;b&gt;Session 1&lt;/b&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;th scope=&quot;row&quot;&gt;8h30-9h&lt;/th&gt;
+            &lt;td&gt;Accueil café et stand Poster&lt;/td&gt;   
+            &lt;td&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;th scope=&quot;row&quot;&gt;9h-9h15&lt;/th&gt;
+            &lt;td&gt;Présentation du programme de la matinée&lt;/td&gt;   
+            &lt;td&gt;ACTIF&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;th scope=&quot;row&quot;&gt;9h15-9h45&lt;/th&gt;
+            &lt;td&gt;Témoignage étudiant, constat et frein à l’action&lt;/td&gt;
+            &lt;td&gt;Pour un réveil écologique&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;th scope=&quot;row&quot;&gt;9h45-10h45&lt;/th&gt;
+            &lt;td&gt;Prospective, quel modèle de société compatible avec les limites planétaires &amp;amp; Questions&lt;/td&gt;
+            &lt;td&gt;David Game, directeur prospective RTE&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;th scope=&quot;row&quot;&gt;10h45-11h&lt;/th&gt;
+            &lt;td&gt;Pause&lt;/td&gt;
+            &lt;td&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;th scope=&quot;row&quot;&gt;11h-12h&lt;/th&gt;
+            &lt;td&gt;Quizz et table ronde&lt;/td&gt;
+            &lt;td&gt;Pour un réveil écologique, énergies et Sociétés, ACTIF, David Game&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td colspan=&quot;3&quot;&gt;&lt;b&gt;Session 2 (in english)&lt;/b&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;th scope=&quot;row&quot;&gt;13h-13h30&lt;/th&gt;
+            &lt;td&gt;Accueil café et stand Poster&lt;/td&gt;   
+            &lt;td&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;th scope=&quot;row&quot;&gt;13h30-13h45&lt;/th&gt;
+            &lt;td&gt;Présentation du programme de la matinée&lt;/td&gt;   
+            &lt;td&gt;ACTIF&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;th scope=&quot;row&quot;&gt;13h45-14h15&lt;/th&gt;
+            &lt;td&gt;Témoignage étudiant, constat et frein à l’action&lt;/td&gt;
+            &lt;td&gt;Pour un réveil écologique&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;th scope=&quot;row&quot;&gt;14h15-15h15&lt;/th&gt;
+            &lt;td&gt;Prospective, quel modèle de société compatible avec les limites planétaires &amp;amp; Questions&lt;/td&gt;
+            &lt;td&gt;David Game, directeur prospective RTE&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;th scope=&quot;row&quot;&gt;15h15-15h30&lt;/th&gt;
+            &lt;td&gt;Pause&lt;/td&gt;
+            &lt;td&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;th scope=&quot;row&quot;&gt;15h30-16h30&lt;/th&gt;
+            &lt;td&gt;Economie circulaire et recyclage des métaux &amp;amp; Questions&lt;/td&gt;
+            &lt;td&gt;Stéphane Bourg, ISEC, CEA Marcoule&lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/tbody&gt;
+    &lt;/table&gt;
+&lt;/div&gt;
 </description>
-        <pubDate>Fri, 18 Jul 2014 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/web%20development/2014/07/18/project-1/</link>
-        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/18/project-1/</guid>
+        <pubDate>Thu, 15 Jul 2021 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/communication/2021/07/15/project-5/</link>
+        <guid isPermaLink="true">http://localhost:4000/communication/2021/07/15/project-5/</guid>
         
         
-        <category>Web Development</category>
+        <category>Communication</category>
         
       </item>
     
       <item>
-        <title>Escape</title>
-        <description>
+        <title>Journée des associations</title>
+        <description>&lt;p&gt;Tu te demandes ce que fait ACTIF ? Quels sont les prochains évènements ? Viens nous rencontrer sur le site de Saclay pendant la journée des associations.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 17 Jul 2014 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/web%20development/2014/07/17/project-2/</link>
-        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/17/project-2/</guid>
+        <pubDate>Thu, 15 Jul 2021 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/communication/2021/07/15/project-4/</link>
+        <guid isPermaLink="true">http://localhost:4000/communication/2021/07/15/project-4/</guid>
         
         
-        <category>Web Development</category>
+        <category>Communication</category>
         
       </item>
     
       <item>
-        <title>Golden</title>
+        <title>YRLS Conference</title>
         <description>
 </description>
-        <pubDate>Wed, 16 Jul 2014 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/web%20development/2014/07/16/project-3/</link>
-        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/16/project-3/</guid>
+        <pubDate>Fri, 15 Mar 2019 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/conference/2019/03/15/project-1/</link>
+        <guid isPermaLink="true">http://localhost:4000/conference/2019/03/15/project-1/</guid>
         
         
-        <category>Web Development</category>
+        <category>Conference</category>
         
       </item>
     
       <item>
-        <title>Treehouse</title>
+        <title>ACTIF Welcome Day</title>
         <description>
 </description>
-        <pubDate>Tue, 15 Jul 2014 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/web%20development/2014/07/15/project-4/</link>
-        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/15/project-4/</guid>
-        
-        
-        <category>Web Development</category>
-        
-      </item>
-    
-      <item>
-        <title>Round Icons</title>
-        <description>
-</description>
-        <pubDate>Tue, 15 Jul 2014 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/web%20development/2014/07/15/project-6/</link>
-        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/15/project-6/</guid>
-        
-        
-        <category>Web Development</category>
-        
-      </item>
-    
-      <item>
-        <title>Startup Framework</title>
-        <description>
-</description>
-        <pubDate>Mon, 14 Jul 2014 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/web%20development/2014/07/14/project-5/</link>
-        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/14/project-5/</guid>
+        <pubDate>Tue, 27 Nov 2018 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/web%20development/2018/11/27/project-2/</link>
+        <guid isPermaLink="true">http://localhost:4000/web%20development/2018/11/27/project-2/</guid>
         
         
         <category>Web Development</category>

@@ -1,0 +1,97 @@
+---
+title: Agir 
+subtitle: Colloque Climat Energie
+layout: default
+modal-id: 5
+date: 2021-07-15
+img: colloque-agir-thumbnail.jpg
+thumbnail: colloque-agir-thumbnail.jpg
+alt: image-alt
+project-date: 2022-09-15
+date-label: 15-09-2022
+location: Paris Saclay
+category: Communication
+---
+
+L'INSTN organise le colloque "Climat et énergie: Agir pour un développement durable" à destination des étudiants, des doctorants et des jeunes ingénieurs. Il aura lieu dans l’amphithéâtre de l’INSTN le 15/09/2022. Deux sessions identiques auront lieu de 8h30 à 12h et de 13h à 16h30.
+
+Le programme est le suivant:
+<div class="table-responsive">
+    <table class="table table-striped table-hover">
+    <thead>
+        <tr>
+        <th scope="col">Heure</th>
+        <th scope="col">Programme</th>
+        <th scope="col">Intervenant</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="3"><b>Session 1</b></td>
+        </tr>
+        <tr>
+            <th scope="row">8h30-9h</th>
+            <td>Accueil café et stand Poster</td>   
+            <td></td>
+        </tr>
+        <tr>
+            <th scope="row">9h-9h15</th>
+            <td>Présentation du programme de la matinée</td>   
+            <td>ACTIF</td>
+        </tr>
+        <tr>
+            <th scope="row">9h15-9h45</th>
+            <td>Témoignage étudiant, constat et frein à l’action</td>
+            <td>Pour un réveil écologique</td>
+        </tr>
+        <tr>
+            <th scope="row">9h45-10h45</th>
+            <td>Prospective, quel modèle de société compatible avec les limites planétaires & Questions</td>
+            <td>David Game, directeur prospective RTE</td>
+        </tr>
+        <tr>
+            <th scope="row">10h45-11h</th>
+            <td>Pause</td>
+            <td></td>
+        </tr>
+        <tr>
+            <th scope="row">11h-12h</th>
+            <td>Quizz et table ronde</td>
+            <td>Pour un réveil écologique, énergies et Sociétés, ACTIF, David Game</td>
+        </tr>
+        <tr>
+            <td colspan="3"><b>Session 2 (in english)</b></td>
+        </tr>
+        <tr>
+            <th scope="row">13h-13h30</th>
+            <td>Accueil café et stand Poster</td>   
+            <td></td>
+        </tr>
+        <tr>
+            <th scope="row">13h30-13h45</th>
+            <td>Présentation du programme de la matinée</td>   
+            <td>ACTIF</td>
+        </tr>
+        <tr>
+            <th scope="row">13h45-14h15</th>
+            <td>Témoignage étudiant, constat et frein à l’action</td>
+            <td>Pour un réveil écologique</td>
+        </tr>
+        <tr>
+            <th scope="row">14h15-15h15</th>
+            <td>Prospective, quel modèle de société compatible avec les limites planétaires & Questions</td>
+            <td>David Game, directeur prospective RTE</td>
+        </tr>
+        <tr>
+            <th scope="row">15h15-15h30</th>
+            <td>Pause</td>
+            <td></td>
+        </tr>
+        <tr>
+            <th scope="row">15h30-16h30</th>
+            <td>Economie circulaire et recyclage des métaux & Questions</td>
+            <td>Stéphane Bourg, ISEC, CEA Marcoule</td>
+        </tr>
+    </tbody>
+    </table>
+</div>

@@ -1,15 +1,15 @@
 ---
-title: Escape
+title: ACTIF Welcome Day
 subtitle: Website Design
 layout: default
 modal-id: 2
-date: 2014-07-17
+date: 2018-11-27
 img: escape.png
 thumbnail: escape-thumbnail.png
 alt: image-alt
-project-date: 2014-07-15
+project-date: 2018-11-27
+date-label: 27-11-2018
 location: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+description: Bienvenue aux nouveaux doctorants ! Cette présentation vous permettra d'en savoir plus sur le CEA et sur l'Association des Thésards d'Île-de-France.
 ---
