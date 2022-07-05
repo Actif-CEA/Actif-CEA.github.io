@@ -5,13 +5,13 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 03 Jul 2022 15:11:06 +0200</pubDate>
-    <lastBuildDate>Sun, 03 Jul 2022 15:11:06 +0200</lastBuildDate>
+    <pubDate>Tue, 05 Jul 2022 17:30:56 +0200</pubDate>
+    <lastBuildDate>Tue, 05 Jul 2022 17:30:56 +0200</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
         <title>Fête de la musique</title>
-        <description>
+        <description>&lt;p&gt;L’association ACTIF revient sur le site de Saclay pour la fête de la musique 🎼 🎷 ! Viens nous voir sur notre stand entre midi et deux le 24 juin !! Tu as des idées de projets associatifs ? Tu veux t’engager auprès d’une équipe motivée ? Viens nous rencontrer !&lt;/p&gt;
 </description>
         <pubDate>Fri, 24 Jun 2022 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/communication/2022/06/24/project-3/</link>
@@ -131,7 +131,7 @@
     
       <item>
         <title>YRLS Conference</title>
-        <description>
+        <description>&lt;p&gt;The YRLS conferences features an interactive program that includes posters, talks, round tables and workshops to allow young researchers to present their ongoing work, learn from experts, actively engage in discussions with their peers and invited speakers, share their experience, exchange ideas and build new collaborations. Each year, we welcome around 200 attendees from different countries with different scientific backgrounds.&lt;/p&gt;
 </description>
         <pubDate>Fri, 15 Mar 2019 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/conference/2019/03/15/project-1/</link>
@@ -144,14 +144,14 @@
     
       <item>
         <title>ACTIF Welcome Day</title>
-        <description>
+        <description>&lt;p&gt;Bienvenue aux nouveaux doctorants ! Cette présentation vous permettra d’en savoir plus sur le CEA et sur l’Association des Thésards d’Île-de-France.&lt;/p&gt;
 </description>
         <pubDate>Tue, 27 Nov 2018 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/web%20development/2018/11/27/project-2/</link>
-        <guid isPermaLink="true">http://localhost:4000/web%20development/2018/11/27/project-2/</guid>
+        <link>http://localhost:4000/communication/2018/11/27/project-2/</link>
+        <guid isPermaLink="true">http://localhost:4000/communication/2018/11/27/project-2/</guid>
         
         
-        <category>Web Development</category>
+        <category>Communication</category>
         
       </item>
     

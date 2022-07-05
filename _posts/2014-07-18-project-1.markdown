@@ -11,5 +11,5 @@ project-date: 2019-03-15
 date-label: (04-06)-06-2019
 location: Paris
 category: Conference
-description: The YRLS conferences features an interactive program that includes posters, talks, round tables and workshops to allow young researchers to present their ongoing work, learn from experts, actively engage in discussions with their peers and invited speakers, share their experience, exchange ideas and build new collaborations. Each year, we welcome around 200 attendees from different countries with different scientific backgrounds.
 ---
+The YRLS conferences features an interactive program that includes posters, talks, round tables and workshops to allow young researchers to present their ongoing work, learn from experts, actively engage in discussions with their peers and invited speakers, share their experience, exchange ideas and build new collaborations. Each year, we welcome around 200 attendees from different countries with different scientific backgrounds.
