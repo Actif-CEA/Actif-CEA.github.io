@@ -4,8 +4,8 @@ subtitle: Stand Actif
 layout: default
 modal-id: 3
 date: 2022-06-24
-img: fete-musique.jpeg
-thumbnail: golden-thumbnail.png
+img: actif-poster.png
+thumbnail: actif-poster-thumbnail.png
 alt: image-alt
 project-date: 2022-06-24
 date-label: 24-06-2022

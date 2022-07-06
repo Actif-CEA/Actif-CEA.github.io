@@ -1,7 +1,7 @@
-# url: https://actif-cea.github.io/
-url: 127.0.0.1:4000/
-# baseurl: /
-baseurl: #
+url: https://actif-cea.github.io/
+#url: 127.0.0.1:4000/
+baseurl: /
+#baseurl: #
 
 # Site settings
 title: ACTIF CEA
