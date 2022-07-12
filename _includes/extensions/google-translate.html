@@ -1,9 +1,9 @@
-{% if include.translate_langs %}
-  {% assign translate_langs = include.translate_langs %}
+{% if site.translate_langs %}
+  {% assign translate_langs = site.translate_langs %}
 {% endif %}
 
-{% if include.lang %}
-  {% assign lang = include.lang %}
+{% if site.lang %}
+  {% assign lang = site.lang %}
 {% endif %}
 
 <div id="google_translate_element">
@@ -24,6 +24,7 @@
     {% endfor %}
   </ul>
 </span>
+
 
 <script type="text/javascript">
 function googleTranslateElementInit() {

@@ -13,6 +13,7 @@
  */
 
 body {
+    top:0 !important;
     overflow-x: hidden;
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #5E5E5E;
@@ -886,4 +887,200 @@ body {
     webkit-tap-highlight-color: #B20E0C;
 }
 
+
+
+a.goog-te-menu-value {
+    vertical-align: top !important;
+}
+
+a.goog-te-menu-value:hover {
+    text-decoration: none;
+}
+
+a.goog-te-menu-value span {
+    color: #aaa;
+}
+
+a.goog-te-menu-value span:hover {
+    color: white;
+}
+
+/* Remove the down arrow */
+/* when dropdown open */
+a.goog-te-menu-value span[style="color: rgb(213, 213, 213);"] {
+    display: none;
+}
+/* after clicked/touched */
+a.goog-te-menu-value span[style="color: rgb(118, 118, 118);"] {
+    display: none;
+}
+/* on page load (not yet touched or clicked) */
+a.goog-te-menu-value span[style="color: rgb(155, 155, 155);"] {
+    display: none;
+}
+
+/* Remove span with left border line | (next to the arrow) in Chrome & Firefox */
+a.goog-te-menu-value span[style="border-left: 1px solid rgb(187, 187, 187);"] {
+    display: none;
+}
+/* Remove span with left border line | (next to the arrow) in Edge & IE11 */
+a.goog-te-menu-value span[style="border-left-color: rgb(187, 187, 187); border-left-width: 1px; border-left-style: solid;"] {
+    display: none;
+}
+
+
+div#google_translate_element {
+    display: none;
+}
+div#google_translate_element div.goog-te-gadget {
+    display: inline;
+    font-size: 0;
+}
+
+div#google_translate_element div[id=':0.targetLanguage'] {
+    display: inline;
+}
+
+div#google_translate_element div.goog-te-gadget-simple {
+    border: none;
+    background-color: transparent;
+   /* @extend %goog-te-menu;*/
+}
+
+div#google_translate_element a.goog-logo-link {
+    display: none;
+}
+
+div#google_translate_element .goog-te-gadget-icon {
+    display: none !important;
+    /*background: url("url for the icon") 0 0 no-repeat !important;*/
+}
+
+div#google_translate_element a.goog-te-menu-value {
+    margin: 0;
+}
+
+div#google_translate_element a.goog-te-menu-value span:first-child {
+    display: none;
+}
+
+div#google_translate_element a.goog-te-menu-value:before {
+    content: "\f1ab  \f0d7";
+    font-family: FontAwesome;
+    font-size: initial;
+    color: #fefefe;
+    border: 1px solid #fefefe85;
+    border-radius: 3px;
+    padding: 3px 6px;
+}
+    
+.goog-te-menu-frame .goog-te-menu2 {
+    max-width: 100%;
+    overflow-x: auto;
+    box-sizing: border-box;
+    height: auto;
+}
+  
+/* HIDE the google translate toolbar */
+.goog-te-banner-frame.skiptranslate {
+    display: none !important;
+    border: none;
+    box-shadow: 0 0;
+    -webkit-box-shadow: 0 0;
+}
+
+.ct-language-selected {
+    background-color: darken(#fefefe85, 5%) !important;
+}
+
+.ct-language-dropdown {
+    overflow: hidden;
+    max-height: 0;
+    position: absolute;
+    top: 110%;
+    right: -10px;
+    background-color: lighten(#fefefe85, 5%);
+    -webkit-transition: all 0.25s ease-in-out;
+    transition: all 0.25s ease-in-out;
+    width: 100px;
+    text-align: center;
+    margin-top: 0;
+    z-index: 200;
+    border-radius: 3px;
+    visibility: hidden;
+}
+  
+.ct-language-dropdown li {
+    padding: 5px;
+}
+  
+.ct-language-dropdown li:first-child {
+    padding-top: 12px;
+}
+  
+.ct-language-dropdown li:last-child {
+    padding-bottom: 12px;
+}
+  
+.ct-language-dropdown li:not(:last-child) {
+    border-bottom: 1px solid rgba(0, 0, 0, .04);
+}
+  
+.ct-language-dropdown li a {
+    display: block;
+    color: invert(#fefefe85);
+}
+  
+.ct-language-dropdown li a img {
+    width: 24px;
+    max-height: 24px;
+    border: none;
+}
+    
+/*.ct-language-dropdown li a:hover {
+    @extend .ct-language-selected;
+}*/
+    
+.list-unstyled {
+    display: inline-block;
+    list-style: none;
+    margin-left: 0;
+}
+
+@media (min-width: 768px){
+.ct-language {
+    display: inline-block;
+    position: relative;
+    padding: 10px 10px;
+    padding-top: 19.5px;
+    border-radius: 3px;
+}
+
+.ct-language {
+    color: #B20E0C;
+}
+
+.ct-language:hover,
+.ct-language:focus,
+.ct-language:active,
+.ct-language.active {
+    color: #C6110E;
+}
+
+.ct-language:hover {
+    cursor: pointer;
+}
+
+.ct-language:hover .ct-language-dropdown {
+    margin-top: 8px;
+    max-height: 10000px;
+    visibility: visible;
+    box-shadow: 0 0 9px 3px rgba(0, 0, 0, .06);
+}
+
+.ct-language:before {
+    content: "\f1ab  \f0d7";
+    font-family: FontAwesome;
+}
+ 
 
