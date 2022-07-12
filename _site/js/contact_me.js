@@ -1,5 +1,5 @@
 $(function() {
-
+    /*
     $("input,textarea").jqBootstrapValidation({
         preventSubmit: true,
         submitError: function($form, event, errors) {
@@ -55,7 +55,7 @@ $(function() {
         filter: function() {
             return $(this).is(":visible");
         },
-    });
+    });*/
 
     $("a[data-toggle=\"tab\"]").click(function(e) {
         e.preventDefault();
@@ -67,4 +67,12 @@ $(function() {
 /*When clicking on Full hide fail/success boxes */
 $('#name').focus(function() {
     $('#success').html('');
+});
+
+// Form
+var submitted=false;
+
+$('#gform').on('submit', function(e) {
+    $('#gform *').fadeOut(2000);
+    $('#gform').prepend('<h3 class="section-subheading text-white text-center">Votre message a bien été envoyé...</h3>');
 });

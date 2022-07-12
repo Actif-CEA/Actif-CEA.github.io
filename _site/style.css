@@ -878,6 +878,10 @@ img::-moz-selection {
     background: 0 0;
 }
 
+.client-logo {
+    max-height: 70px;
+}
+
 body {
     webkit-tap-highlight-color: #B20E0C;
 }
