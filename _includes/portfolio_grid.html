@@ -11,9 +11,11 @@
                 <!-- Future projects & events -->
                 {% assign currentDate = 'now' | date: '%s' %}
                 {% for post in site.posts %}
-                    {% assign postDate = post.project-date | date: '%s' %}
-                    {% if postDate > currentDate %}
-                        {% include portfolio_element.html %}
+                    {% if post.project-date %}
+                        {% assign postDate = post.project-date | date: '%s' %}
+                        {% if postDate > currentDate %}
+                            {% include portfolio_element.html %}
+                        {% endif %}
                     {% endif %}
                 {% endfor %}
             </div>
@@ -28,9 +30,11 @@
             <div class="row">
                 <!-- Past projects & events -->
                 {% for post in site.posts %}
-                    {% assign postDate = post.project-date | date: '%s' %}
-                    {% if currentDate > postDate %}
-                        {% include portfolio_element.html %}
+                    {% if post.project-date %}
+                        {% assign postDate = post.project-date | date: '%s' %}
+                        {% if currentDate > postDate %}
+                            {% include portfolio_element.html %}
+                        {% endif %}
                     {% endif %}
                 {% endfor %}
             </div>
