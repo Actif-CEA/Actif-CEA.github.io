@@ -10,7 +10,7 @@ alt: image-alt
 project-date: 2022-09-15
 date-label: 15-09-2022
 location: Paris Saclay
-category: Communication
+category: Colloque
 ---
 
 L'INSTN organise le colloque "Climat et énergie: Agir pour un développement durable" à destination des étudiants, des doctorants et des jeunes ingénieurs. Il aura lieu dans l’amphithéâtre de l’INSTN le 15/09/2022. Deux sessions identiques auront lieu de 8h30 à 12h et de 13h à 16h30.
@@ -21,8 +21,8 @@ Le programme est le suivant:
     <thead>
         <tr>
         <th scope="col">Heure</th>
-        <th scope="col">Programme</th>
-        <th scope="col">Intervenant</th>
+        <th scope="col" class="text-center">Programme</th>
+        <th scope="col" class="text-center">Intervenant</th>
         </tr>
     </thead>
     <tbody>
@@ -40,24 +40,24 @@ Le programme est le suivant:
             <td>ACTIF</td>
         </tr>
         <tr>
-            <th scope="row">9h15-9h45</th>
+            <th scope="row">9h15-10h15</th>
+            <td>Limites planétaires : quels enjeux de transformation ? comment orienter la R&D ?</td>
+            <td>David Game, directeur prospective RTE</td>
+        </tr>
+        <tr>
+            <th scope="row">10h15-11h</th>
             <td>Témoignage étudiant, constat et frein à l’action</td>
             <td>Pour un réveil écologique</td>
         </tr>
         <tr>
-            <th scope="row">9h45-10h45</th>
-            <td>Prospective, quel modèle de société compatible avec les limites planétaires & Questions</td>
-            <td>David Game, directeur prospective RTE</td>
-        </tr>
-        <tr>
-            <th scope="row">10h45-11h</th>
+            <th scope="row">11h-11h20</th>
             <td>Pause</td>
             <td></td>
         </tr>
         <tr>
-            <th scope="row">11h-12h</th>
-            <td>Quizz et table ronde</td>
-            <td>Pour un réveil écologique, énergies et Sociétés, ACTIF, David Game</td>
+            <th scope="row">11h20-12h</th>
+            <td>Table ronde</td>
+            <td>Pour un réveil écologique, énergies et Sociétés, David Game, ACTIF</td>
         </tr>
         <tr>
             <td colspan="3"><b>Session 2 (in english)</b></td>
@@ -69,28 +69,28 @@ Le programme est le suivant:
         </tr>
         <tr>
             <th scope="row">13h30-13h45</th>
-            <td>Présentation du programme de la matinée</td>   
+            <td>Présentation du programme de l'après-midi</td>   
             <td>ACTIF</td>
         </tr>
         <tr>
-            <th scope="row">13h45-14h15</th>
-            <td>Témoignage étudiant, constat et frein à l’action</td>
-            <td>Pour un réveil écologique</td>
-        </tr>
-        <tr>
-            <th scope="row">14h15-15h15</th>
+            <th scope="row">13h45-14h45</th>
             <td>Prospective, quel modèle de société compatible avec les limites planétaires & Questions</td>
             <td>David Game, directeur prospective RTE</td>
         </tr>
         <tr>
-            <th scope="row">15h15-15h30</th>
+            <th scope="row">14h45-15h00</th>
             <td>Pause</td>
             <td></td>
         </tr>
         <tr>
+            <th scope="row">15h00-15h45</th>
+            <td>Témoignage étudiant, constat et frein à l’action</td>
+            <td>Pour un réveil écologique</td>
+        </tr>
+        <tr>
             <th scope="row">15h30-16h30</th>
-            <td>Economie circulaire et recyclage des métaux & Questions</td>
-            <td>Stéphane Bourg, ISEC, CEA Marcoule</td>
+            <td>Table ronde</td>
+            <td>Pour un réveil écologique, énergies et Sociétés, David Game, ACTIF</td>
         </tr>
     </tbody>
     </table>
