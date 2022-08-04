@@ -13,7 +13,7 @@ Images are in '/img/portfolio'
 To create a post, create a file in the director '/_posts' with name yyyy-mm-dd-post-title.markdown
 
 Copy this content
-`
+``
 \-\-\-
 title: Title of you post
 subtitle: Subtitle of the post
@@ -30,7 +30,7 @@ category: Category of event
 
 --> Here your can write anything you want ! even html content !
 
-`
+``
 
 # Website link
 
