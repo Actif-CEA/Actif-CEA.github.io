@@ -23,6 +23,7 @@ date: 2022-01-01 # date of writing
 img: colloque-agir-thumbnail.jpg # name of the image stored in /img/portfolio
 thumbnail: colloque-agir-thumbnail.jpg # name of the image stored in /img/portfolio 400x289
 alt: image-alt 
+project-date: 2022-01-01 # Date of the project used to sort future and past events
 date-label: 01-01-2022 # Date displayed on the event
 location: Location of event
 category: Category of event
