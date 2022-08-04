@@ -12,3 +12,8 @@ date-label: 30-09-2022
 location: Fontainebleau
 category: Activite exterieur
 ---
+
+
+# The randonnée du siècle !
+
+Venez nombreux à notre super évènement de randonnée !!!
