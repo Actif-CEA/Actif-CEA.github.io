@@ -4,7 +4,7 @@ ACTIF CEA Website is based on the template [Agency bootstrap theme ](https://sta
 
 # How to use
 
-###Portfolio 
+### Portfolio 
 
 Portfolio projects are in '/_posts'
 
