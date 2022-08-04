@@ -14,7 +14,7 @@ To create a post, create a file in the director '/_posts' with name yyyy-mm-dd-p
 
 Copy this content
 ```
-\-\-\-
+---
 title: Title of you post
 subtitle: Subtitle of the post
 layout: default
@@ -26,7 +26,7 @@ alt: image-alt
 date-label: 01-01-2022 # Date displayed on the event
 location: Location of event
 category: Category of event
-\-\-\-
+---
 
 --> Here your can write anything you want ! even html content !
 ```
