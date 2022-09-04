@@ -4,16 +4,16 @@ subtitle: Colloque Climat Energie
 layout: default
 modal-id: 5
 date: 2021-07-15
-img: colloque-agir-thumbnail.jpg
-thumbnail: colloque-agir-thumbnail.jpg
+img: lecon-climat.png
+thumbnail: lecon-climat-thumbnail.png
 alt: image-alt
-project-date: 2022-09-15
-date-label: 15-09-2022
+project-date: 2022-09-16
+date-label: 16-09-2022
 location: Paris Saclay
 category: Colloque
 ---
 
-L'INSTN organise le colloque "Climat et énergie: Agir pour un développement durable" à destination des étudiants, des doctorants et des jeunes ingénieurs. Il aura lieu dans l’amphithéâtre de l’INSTN le 15/09/2022. Deux sessions identiques auront lieu de 8h30 à 12h et de 13h à 16h30.
+L'INSTN organise le colloque "Climat et énergie: Agir pour un développement durable" à destination des étudiants, des doctorants et des jeunes ingénieurs. Il aura lieu dans l’amphithéâtre de l’INSTN le 16/09/2022. Deux sessions identiques auront lieu de 8h30 à 12h et de 13h à 16h30.
 
 Le programme est le suivant:
 <div class="table-responsive">

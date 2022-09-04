@@ -5,8 +5,8 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 29 Jul 2022 21:53:21 +0200</pubDate>
-    <lastBuildDate>Fri, 29 Jul 2022 21:53:21 +0200</lastBuildDate>
+    <pubDate>Sun, 04 Sep 2022 22:06:02 +0200</pubDate>
+    <lastBuildDate>Sun, 04 Sep 2022 22:06:02 +0200</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
@@ -46,7 +46,7 @@
     
       <item>
         <title>Agir</title>
-        <description>&lt;p&gt;L’INSTN organise le colloque “Climat et énergie: Agir pour un développement durable” à destination des étudiants, des doctorants et des jeunes ingénieurs. Il aura lieu dans l’amphithéâtre de l’INSTN le 15/09/2022. Deux sessions identiques auront lieu de 8h30 à 12h et de 13h à 16h30.&lt;/p&gt;
+        <description>&lt;p&gt;L’INSTN organise le colloque “Climat et énergie: Agir pour un développement durable” à destination des étudiants, des doctorants et des jeunes ingénieurs. Il aura lieu dans l’amphithéâtre de l’INSTN le 16/09/2022. Deux sessions identiques auront lieu de 8h30 à 12h et de 13h à 16h30.&lt;/p&gt;
 
 &lt;p&gt;Le programme est le suivant:&lt;/p&gt;
 &lt;div class=&quot;table-responsive&quot;&gt;
