@@ -1,30 +1,40 @@
-Agency Jekyll theme
+ACTIF CEA Website
 ====================
-
-Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
+ACTIF CEA Website is based on the template [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
 
 # How to use
 
-###Portfolio 
+### Portfolio 
 
 Portfolio projects are in '/_posts'
 
 Images are in '/img/portfolio'
 
-###About
+To create a post, create a file in the director '/_posts' with name yyyy-mm-dd-post-title.markdown
 
-Images are in '/img/about/'
+Copy this content
+```
+---
+title: Title of you post
+subtitle: Subtitle of the post
+layout: default
+modal-id: 987 # must be unique
+date: 2022-01-01 # date of writing
+img: colloque-agir-thumbnail.jpg # name of the image stored in /img/portfolio
+thumbnail: colloque-agir-thumbnail.jpg # name of the image stored in /img/portfolio 400x289
+alt: image-alt 
+project-date: 2022-01-01 # Date of the project used to sort future and past events
+date-label: 01-01-2022 # Date displayed on the event
+location: Location of event
+category: Category of event
+---
 
-###Team
+--> Here your can write anything you want ! even html content !
+```
 
-Team members and info are in '_config.yml'
+# Website link
 
-Images are in '/img/team/'
-
-
-# Demo
-
-View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
+https://actif-cea.github.io/
 
 =========
 For more details, read [documentation](http://jekyllrb.com/)
