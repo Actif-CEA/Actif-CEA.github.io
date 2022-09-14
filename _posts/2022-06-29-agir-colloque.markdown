@@ -52,7 +52,6 @@ Le programme est le suivant:
         <tr>
             <th scope="row">11h-11h20</th>
             <td>Pause</td>
-            <td></td>
         </tr>
         <tr>
             <th scope="row">11h20-12h</th>
@@ -64,32 +63,32 @@ Le programme est le suivant:
         </tr>
         <tr>
             <th scope="row">13h-13h30</th>
-            <td>Accueil café et stand Poster</td>   
+            <td>Welcome coffee and poster stand</td>   
             <td></td>
         </tr>
         <tr>
             <th scope="row">13h30-13h45</th>
-            <td>Présentation du programme de l'après-midi</td>   
+            <td>Présentation of the afternoon program</td>   
             <td>ACTIF</td>
         </tr>
         <tr>
             <th scope="row">13h45-14h45</th>
-            <td>Prospective, quel modèle de société compatible avec les limites planétaires & Questions</td>
-            <td>David Game, directeur prospective RTE</td>
+            <td>"Planetary boundaries: what are the stakes of transformation?" How to guide R&D?</td>
+            <td>David Game, director of R&D program at RTE</td>
         </tr>
         <tr>
-            <th scope="row">14h45-15h00</th>
-            <td>Pause</td>
+            <th scope="row">14h45-15h</th>
+            <td>Break</td>
             <td></td>
         </tr>
         <tr>
-            <th scope="row">15h00-15h45</th>
-            <td>Témoignage étudiant, constat et frein à l’action</td>
+            <th scope="row">15h-15h45</th>
+            <td>Student testimonials, observations and brake on action</td>
             <td>Pour un réveil écologique</td>
         </tr>
         <tr>
-            <th scope="row">15h30-16h30</th>
-            <td>Table ronde</td>
+            <th scope="row">15h45-16h30</th>
+            <td>Round table</td>
             <td>Pour un réveil écologique, énergies et Sociétés, David Game, ACTIF</td>
         </tr>
     </tbody>

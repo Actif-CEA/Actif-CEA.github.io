@@ -5,8 +5,8 @@
     <description>L'Association CEA des Thésards d'Île-de-France (ACTIF) a pour objectifs d'accompagner les étudiants et jeunes chercheurs au CEA.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 09 Sep 2022 00:12:14 +0200</pubDate>
-    <lastBuildDate>Fri, 09 Sep 2022 00:12:14 +0200</lastBuildDate>
+    <pubDate>Wed, 14 Sep 2022 22:53:34 +0200</pubDate>
+    <lastBuildDate>Wed, 14 Sep 2022 22:53:34 +0200</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
@@ -46,7 +46,7 @@
     
       <item>
         <title>ACTIF Welcome Day</title>
-        <description>&lt;p&gt;Bienvenue aux nouveaux doctorants !&lt;/p&gt;
+        <description>&lt;p&gt;Bienvenue aux nouveaux doctorants ! Venez nous rencontrer lors de cette matinée&lt;/p&gt;
 </description>
         <pubDate>Thu, 09 Sep 2021 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/communication/2021/09/09/journee-accueil/</link>
@@ -98,7 +98,6 @@
         &lt;tr&gt;
             &lt;th scope=&quot;row&quot;&gt;11h-11h20&lt;/th&gt;
             &lt;td&gt;Pause&lt;/td&gt;
-            &lt;td&gt;&lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
             &lt;th scope=&quot;row&quot;&gt;11h20-12h&lt;/th&gt;
@@ -110,32 +109,32 @@
         &lt;/tr&gt;
         &lt;tr&gt;
             &lt;th scope=&quot;row&quot;&gt;13h-13h30&lt;/th&gt;
-            &lt;td&gt;Accueil café et stand Poster&lt;/td&gt;   
+            &lt;td&gt;Welcome coffee and poster stand&lt;/td&gt;   
             &lt;td&gt;&lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
             &lt;th scope=&quot;row&quot;&gt;13h30-13h45&lt;/th&gt;
-            &lt;td&gt;Présentation du programme de l'après-midi&lt;/td&gt;   
+            &lt;td&gt;Présentation of the afternoon program&lt;/td&gt;   
             &lt;td&gt;ACTIF&lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
             &lt;th scope=&quot;row&quot;&gt;13h45-14h45&lt;/th&gt;
-            &lt;td&gt;Prospective, quel modèle de société compatible avec les limites planétaires &amp;amp; Questions&lt;/td&gt;
-            &lt;td&gt;David Game, directeur prospective RTE&lt;/td&gt;
+            &lt;td&gt;&quot;Planetary boundaries: what are the stakes of transformation?&quot; How to guide R&amp;amp;D?&lt;/td&gt;
+            &lt;td&gt;David Game, director of R&amp;amp;D program at RTE&lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
-            &lt;th scope=&quot;row&quot;&gt;14h45-15h00&lt;/th&gt;
-            &lt;td&gt;Pause&lt;/td&gt;
+            &lt;th scope=&quot;row&quot;&gt;14h45-15h&lt;/th&gt;
+            &lt;td&gt;Break&lt;/td&gt;
             &lt;td&gt;&lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
-            &lt;th scope=&quot;row&quot;&gt;15h00-15h45&lt;/th&gt;
-            &lt;td&gt;Témoignage étudiant, constat et frein à l’action&lt;/td&gt;
+            &lt;th scope=&quot;row&quot;&gt;15h-15h45&lt;/th&gt;
+            &lt;td&gt;Student testimonials, observations and brake on action&lt;/td&gt;
             &lt;td&gt;Pour un réveil écologique&lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
-            &lt;th scope=&quot;row&quot;&gt;15h30-16h30&lt;/th&gt;
-            &lt;td&gt;Table ronde&lt;/td&gt;
+            &lt;th scope=&quot;row&quot;&gt;15h45-16h30&lt;/th&gt;
+            &lt;td&gt;Round table&lt;/td&gt;
             &lt;td&gt;Pour un réveil écologique, énergies et Sociétés, David Game, ACTIF&lt;/td&gt;
         &lt;/tr&gt;
     &lt;/tbody&gt;
