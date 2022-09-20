@@ -2,7 +2,7 @@
 title: ACTIF Welcome Day
 subtitle: Journée d'accueil
 layout: default
-modal-id: 4
+modal-id: 6
 date: 2021-09-09
 img: journee-des-asso.jpg
 thumbnail: journee-des-asso-thumbnail.jpg

@@ -5,57 +5,9 @@
     <description>L'Association CEA des Thésards d'Île-de-France (ACTIF) a pour objectifs d'accompagner les étudiants et jeunes chercheurs au CEA.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 14 Sep 2022 22:53:34 +0200</pubDate>
-    <lastBuildDate>Wed, 14 Sep 2022 22:53:34 +0200</lastBuildDate>
+    <pubDate>Wed, 21 Sep 2022 00:04:11 +0200</pubDate>
+    <lastBuildDate>Wed, 21 Sep 2022 00:04:11 +0200</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
-    
-      <item>
-        <title>Fête de la musique</title>
-        <description>&lt;p&gt;L’association ACTIF revient sur le site de Saclay pour la fête de la musique 🎼 🎷 ! Viens nous voir sur notre stand entre midi et deux le 24 juin !! Tu as des idées de projets associatifs ? Tu veux t’engager auprès d’une équipe motivée ? Viens nous rencontrer !&lt;/p&gt;
-</description>
-        <pubDate>Fri, 24 Jun 2022 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/communication/2022/06/24/fete-musique/</link>
-        <guid isPermaLink="true">http://localhost:4000/communication/2022/06/24/fete-musique/</guid>
-        
-        
-        <category>Communication</category>
-        
-      </item>
-    
-      <item>
-        <title>Politique de Confidentialité</title>
-        <description>&lt;p&gt;Nous recevons, collectons et stockons toute information que vous saisissez. En outre, nous recueillons les informations saisies dans le formulaire de contact: nom, adresse mail, téléphone si complété et contenu du message. Ce contenu est récupéré dans un google form et stocké sur un drive gratuit hébergé par la société Google.&lt;/p&gt;
-
-&lt;p&gt;Nous recueillons ces informations non personnelles et personnelles aux fins suivantes :
-    Pouvoir apporter une réponse à tout utilisateur souhaitant nous contacter.&lt;/p&gt;
-
-&lt;p&gt;Ce site est hébergé par la plateforme Github. Les données issues du formulaires sont stocké sur un drive gratuit hébergé par Google. Vos données peuvent être stockées par le biais du stockage de données, des bases de données et des applications générales de github.com et google.com. Elles stockent vos données sur des serveurs sécurisés derrière un pare-feu.&lt;/p&gt;
-
-&lt;p&gt;Si vous ne souhaitez plus que nous traitions vos données, veuillez nous contacter par mail à l’adresse actif.cea@gmail.com, vos données transmises via le formulaire de l’application seront alors supprimées.&lt;/p&gt;
-
-&lt;p&gt;Nous nous réservons le droit de modifier cette politique de confidentialité à tout moment, aussi nous vous invitons à la consulter fréquemment. Les modifications et les clarifications prendront effet dès leur publication sur le site web. Si nous apportons des modifications importantes à la présente politique, nous vous informerons ici de sa mise à jour, afin que vous sachiez quelles informations nous recueillons, comment nous les utilisons et dans quelles circonstances, le cas échéant, nous les utilisons et/ou les divulguons.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 01 Jan 2022 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/confidentialit%C3%A9/2022/01/01/confidentiality/</link>
-        <guid isPermaLink="true">http://localhost:4000/confidentialit%C3%A9/2022/01/01/confidentiality/</guid>
-        
-        
-        <category>Confidentialité</category>
-        
-      </item>
-    
-      <item>
-        <title>ACTIF Welcome Day</title>
-        <description>&lt;p&gt;Bienvenue aux nouveaux doctorants ! Venez nous rencontrer lors de cette matinée&lt;/p&gt;
-</description>
-        <pubDate>Thu, 09 Sep 2021 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/communication/2021/09/09/journee-accueil/</link>
-        <guid isPermaLink="true">http://localhost:4000/communication/2021/09/09/journee-accueil/</guid>
-        
-        
-        <category>Communication</category>
-        
-      </item>
     
       <item>
         <title>Agir</title>
@@ -138,15 +90,63 @@
             &lt;td&gt;Pour un réveil écologique, énergies et Sociétés, David Game, ACTIF&lt;/td&gt;
         &lt;/tr&gt;
     &lt;/tbody&gt;
-    &lt;/table&gt;
+    &lt;/table&gt;s
 &lt;/div&gt;
 </description>
-        <pubDate>Thu, 15 Jul 2021 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/colloque/2021/07/15/agir-colloque/</link>
-        <guid isPermaLink="true">http://localhost:4000/colloque/2021/07/15/agir-colloque/</guid>
+        <pubDate>Fri, 16 Sep 2022 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/colloque/2022/09/16/agir-colloque/</link>
+        <guid isPermaLink="true">http://localhost:4000/colloque/2022/09/16/agir-colloque/</guid>
         
         
         <category>Colloque</category>
+        
+      </item>
+    
+      <item>
+        <title>Fête de la musique</title>
+        <description>&lt;p&gt;L’association ACTIF revient sur le site de Saclay pour la fête de la musique 🎼 🎷 ! Viens nous voir sur notre stand entre midi et deux le 24 juin !! Tu as des idées de projets associatifs ? Tu veux t’engager auprès d’une équipe motivée ? Viens nous rencontrer !&lt;/p&gt;
+</description>
+        <pubDate>Fri, 24 Jun 2022 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/communication/2022/06/24/fete-musique/</link>
+        <guid isPermaLink="true">http://localhost:4000/communication/2022/06/24/fete-musique/</guid>
+        
+        
+        <category>Communication</category>
+        
+      </item>
+    
+      <item>
+        <title>Politique de Confidentialité</title>
+        <description>&lt;p&gt;Nous recevons, collectons et stockons toute information que vous saisissez. En outre, nous recueillons les informations saisies dans le formulaire de contact: nom, adresse mail, téléphone si complété et contenu du message. Ce contenu est récupéré dans un google form et stocké sur un drive gratuit hébergé par la société Google.&lt;/p&gt;
+
+&lt;p&gt;Nous recueillons ces informations non personnelles et personnelles aux fins suivantes :
+    Pouvoir apporter une réponse à tout utilisateur souhaitant nous contacter.&lt;/p&gt;
+
+&lt;p&gt;Ce site est hébergé par la plateforme Github. Les données issues du formulaires sont stocké sur un drive gratuit hébergé par Google. Vos données peuvent être stockées par le biais du stockage de données, des bases de données et des applications générales de github.com et google.com. Elles stockent vos données sur des serveurs sécurisés derrière un pare-feu.&lt;/p&gt;
+
+&lt;p&gt;Si vous ne souhaitez plus que nous traitions vos données, veuillez nous contacter par mail à l’adresse actif.cea@gmail.com, vos données transmises via le formulaire de l’application seront alors supprimées.&lt;/p&gt;
+
+&lt;p&gt;Nous nous réservons le droit de modifier cette politique de confidentialité à tout moment, aussi nous vous invitons à la consulter fréquemment. Les modifications et les clarifications prendront effet dès leur publication sur le site web. Si nous apportons des modifications importantes à la présente politique, nous vous informerons ici de sa mise à jour, afin que vous sachiez quelles informations nous recueillons, comment nous les utilisons et dans quelles circonstances, le cas échéant, nous les utilisons et/ou les divulguons.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 01 Jan 2022 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/confidentialit%C3%A9/2022/01/01/confidentiality/</link>
+        <guid isPermaLink="true">http://localhost:4000/confidentialit%C3%A9/2022/01/01/confidentiality/</guid>
+        
+        
+        <category>Confidentialité</category>
+        
+      </item>
+    
+      <item>
+        <title>ACTIF Welcome Day</title>
+        <description>&lt;p&gt;Bienvenue aux nouveaux doctorants ! Venez nous rencontrer lors de cette matinée&lt;/p&gt;
+</description>
+        <pubDate>Thu, 09 Sep 2021 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/communication/2021/09/09/journee-accueil/</link>
+        <guid isPermaLink="true">http://localhost:4000/communication/2021/09/09/journee-accueil/</guid>
+        
+        
+        <category>Communication</category>
         
       </item>
     
