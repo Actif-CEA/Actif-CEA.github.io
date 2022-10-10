@@ -10,7 +10,7 @@
             <div class="row">
                 <!-- Future projects & events -->
                 {% assign currentDate = 'now' | date: '%s' %}
-                {% for post in site.posts %}
+                {% for post in site.posts reversed %}
                     {% if post.project-date %}
                         {% assign postDate = post.project-date | date: '%s' %}
                         {% if postDate > currentDate %}

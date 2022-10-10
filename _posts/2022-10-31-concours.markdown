@@ -1,0 +1,29 @@
+---
+title: Concours de création de logo
+subtitle: Art graphique
+layout: default
+modal-id: 8
+date: 2022-10-06
+img: logo-actif-thumbnail.png
+thumbnail: logo-actif-thumbnail.png
+alt: image-alt
+project-date: 2022-10-31
+date-label: 31-10-2022
+location: Paris Saclay
+category: Communication
+---
+Le logo d’ACTIF fait peau neuve ! Vous voulez participer ?
+
+Vous avez jusqu’au 31 octobre pour nous soumettre votre version du nouveau logo (valentin.gilbert@cea.fr)
+
+Il doit représenter les thésards du CEA toutes disciplines confondues. N’hésitez pas à faire jouer votre imagination !
+
+Nous organiserons un vote pour choisir la ou le gagnant.e qui recevra une petite surprise !
+
+Voici quelques couleurs qui peuvent être utilisées (mais qui ne sont pas obligatoires) : 
+
+<img src="img/portfolio/codes_couleurs_logo.png"/>
+
+A vos crayons et/ou claviers !
+
+On attend vos retours avec impatience.
