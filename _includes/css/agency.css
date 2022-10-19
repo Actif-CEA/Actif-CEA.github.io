@@ -23,6 +23,11 @@ body {
     color: #{{ site.data.template.color.primary }};
 }
 
+.hover-secondary:hover {
+    color: #{{ site.data.template.color.secondary }};
+    cursor: pointer;
+}
+
 p {
     font-size: 14px;
     line-height: 1.75;
@@ -285,6 +290,10 @@ header {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+}
+
+#services{
+    padding-bottom: 0px;
 }
 
 header .intro-text {
