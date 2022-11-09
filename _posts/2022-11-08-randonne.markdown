@@ -7,12 +7,12 @@ date: 2022-11-08
 img: hiking-thumbnail.png
 thumbnail: hiking-thumbnail.png
 alt: image-alt
-project-date: 2022-11-11
-date-label: 11-11-2022
+project-date: 2022-11-12
+date-label: 12-11-2022
 location: Vallée Chevreuse
 category: Communication
 ---
-On te propose de partir faire une randonnée à la journée le 11/11/2022.
+On te propose de partir faire une randonnée à la journée le 12/11/2022.
 
 Elle se déroulera dans la vallée de chevreuse !
 
