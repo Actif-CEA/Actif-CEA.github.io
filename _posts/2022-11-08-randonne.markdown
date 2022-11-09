@@ -1,0 +1,23 @@
+---
+title: Randonnée
+subtitle: Vallée Chevreuse
+layout: default
+modal-id: 9
+date: 2022-11-08
+img: hiking-thumbnail.png
+thumbnail: hiking-thumbnail.png
+alt: image-alt
+project-date: 2022-11-11
+date-label: 11-11-2022
+location: Vallée Chevreuse
+category: Communication
+---
+On te propose de partir faire une randonnée à la journée le 11/11/2022.
+
+Elle se déroulera dans la vallée de chevreuse !
+
+Si tu es intéressé, tu peux envoyer un mail à <a href="mailto:valentin.gilbert@cea.fr">valentin.gilbert@cea.fr</a>. On t'ajoutera alors au groupe WhatsApp des participants !
+
+Au programme: randonnée, pique-nique collaboratif, passage à la ferme Coubertin.
+
+A bientôt !

@@ -5,9 +5,52 @@
     <description>L'Association CEA des Thésards d'Île-de-France (ACTIF) a pour objectifs d'accompagner les étudiants et jeunes chercheurs au CEA.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 20 Oct 2022 01:03:06 +0200</pubDate>
-    <lastBuildDate>Thu, 20 Oct 2022 01:03:06 +0200</lastBuildDate>
+    <pubDate>Wed, 09 Nov 2022 12:28:58 +0100</pubDate>
+    <lastBuildDate>Wed, 09 Nov 2022 12:28:58 +0100</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Afterwork</title>
+        <description>&lt;p&gt;Curieux de faire la connaissance de nouveaux doctorants ?&lt;/p&gt;
+
+&lt;p&gt;ACTIF organise un afterwork 🍺 le 17/11/2022, l’évènement commencera à 19h.
+On profitera de cette occasion pour réaliser le vote pour élire le nouveau logo de l’association !&lt;/p&gt;
+
+&lt;p&gt;Le tout se déroulera au &lt;a href=&quot;https://www.google.fr/maps/place/Knight's+Pub/@48.8455358,2.3381671,16.13z/data=!4m5!3m4!1s0x47e67127a3de42d9:0x4a50a1942c8ffc47!8m2!3d48.8456201!4d2.3428581&quot; target=&quot;_blank&quot;&gt;Knight’s Pub&lt;/a&gt; (173 Rue Saint-Jacques, 75005 Paris)&lt;/p&gt;
+
+&lt;p&gt;Si vous souhaitez venir, merci de compléter le formulaire suivant : &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLScLVFCQJGP1WJOliMjeU8eGjHWfk-qu3fkTySblBriUi78ypw/viewform?usp=sf_link&quot; target=&quot;_blank&quot;&gt;https://docs.google.com/… &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;En espérant vous voir nombreux !&lt;/p&gt;
+</description>
+        <pubDate>Wed, 09 Nov 2022 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/communication/2022/11/09/afterwork/</link>
+        <guid isPermaLink="true">http://localhost:4000/communication/2022/11/09/afterwork/</guid>
+        
+        
+        <category>Communication</category>
+        
+      </item>
+    
+      <item>
+        <title>Randonnée</title>
+        <description>&lt;p&gt;On te propose de partir faire une randonnée à la journée le 11/11/2022.&lt;/p&gt;
+
+&lt;p&gt;Elle se déroulera dans la vallée de chevreuse !&lt;/p&gt;
+
+&lt;p&gt;Si tu es intéressé, tu peux envoyer un mail à &lt;a href=&quot;mailto:valentin.gilbert@cea.fr&quot;&gt;valentin.gilbert@cea.fr&lt;/a&gt;. On t’ajoutera alors au groupe WhatsApp des participants !&lt;/p&gt;
+
+&lt;p&gt;Au programme: randonnée, pique-nique collaboratif, passage à la ferme Coubertin.&lt;/p&gt;
+
+&lt;p&gt;A bientôt !&lt;/p&gt;
+</description>
+        <pubDate>Tue, 08 Nov 2022 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/communication/2022/11/08/randonne/</link>
+        <guid isPermaLink="true">http://localhost:4000/communication/2022/11/08/randonne/</guid>
+        
+        
+        <category>Communication</category>
+        
+      </item>
     
       <item>
         <title>Concours de création de logo</title>
@@ -58,8 +101,6 @@
         <description>&lt;p&gt;Curieux de faire la connaissance de nouveaux doctorants ?&lt;/p&gt;
 
 &lt;p&gt;ACTIF organise un afterwork 🍺 le 14/10/2022, l’évènement commencera à 18h. Le lieu n’est pas encore défini mais il se tiendra dans la partie sud de Paris sur la ligne du RER B.&lt;/p&gt;
-
-&lt;p&gt;Si vous souhaitez venir, merci de compléter le formulaire suivant : &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLScLVFCQJGP1WJOliMjeU8eGjHWfk-qu3fkTySblBriUi78ypw/viewform?usp=sf_link&quot; target=&quot;_blank&quot;&gt;https://docs.google.com/… &lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Nous reviendrons vers les inscrits avec le lieu défini au courant de la semaine prochaine (probablement mercredi).&lt;/p&gt;
 
@@ -225,19 +266,6 @@
         
         
         <category>Conference</category>
-        
-      </item>
-    
-      <item>
-        <title>ACTIF Welcome Day</title>
-        <description>&lt;p&gt;Bienvenue aux nouveaux doctorants ! Cette présentation vous permettra d’en savoir plus sur le CEA et sur l’Association des Thésards d’Île-de-France.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 27 Nov 2018 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/communication/2018/11/27/welcome-day/</link>
-        <guid isPermaLink="true">http://localhost:4000/communication/2018/11/27/welcome-day/</guid>
-        
-        
-        <category>Communication</category>
         
       </item>
     
