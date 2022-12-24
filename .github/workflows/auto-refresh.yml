@@ -5,7 +5,8 @@ on:
   # Runs on pushes targeting the default branch
   schedule:
     - cron:  '50 * * * *' # Runs every day at 3am
-
+  workflow_dispatch: # Put here!!
+  
 jobs:
   build:
     runs-on: ubuntu-latest
