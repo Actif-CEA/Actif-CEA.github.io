@@ -4,19 +4,19 @@ name: Automated refresh of github pages
 on:
   # Runs on pushes targeting the default branch
   schedule:
-    - cron:  '0 3 * * *' # Runs every day at 3am
+    - cron:  '50 * * * *' # Runs every day at 3am
 
 jobs:
-  # Deployment job
-  refresh:
+  jekyll:
     runs-on: ubuntu-latest
     steps:
-      - name: Trigger GitHub pages rebuild
-        run: |
-          curl --fail --request POST \
-            --url https://api.github.com/repos/${{ github.repository }}/pages/builds \
-            --header "Authorization: Bearer $USER_TOKEN"
-        env:
-          # You must create a personal token with repo access as GitHub does
-          # not yet support server-to-server page builds.
-          USER_TOKEN: ${{ secrets.USER_TOKEN }}
+      - uses: actions/checkout@v2
+
+      # Standard usage
+      - uses:  helaili/jekyll-action@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: helaili/jekyll-action@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
