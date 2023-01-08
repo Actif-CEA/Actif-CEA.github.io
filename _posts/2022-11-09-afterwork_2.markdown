@@ -1,0 +1,23 @@
+---
+title: Afterwork
+subtitle: Paris Sud
+layout: default
+modal-id: 10
+img: 2022_11_17-afterwork.png
+thumbnail: 2022_11_17-afterwork-thumbnail.png
+alt: image-alt
+project-date: 2022-11-17
+date-label: 17-11-2022
+location: Paris Sud
+category: Communication
+---
+Curieux de faire la connaissance de nouveaux doctorants ?
+
+ACTIF organise un afterwork 🍺 le 17/11/2022, l’évènement commencera à 19h.
+On profitera de cette occasion pour réaliser le vote pour élire le nouveau logo de l'association !
+
+Le tout se déroulera au <a href="https://www.google.fr/maps/place/Knight's+Pub/@48.8455358,2.3381671,16.13z/data=!4m5!3m4!1s0x47e67127a3de42d9:0x4a50a1942c8ffc47!8m2!3d48.8456201!4d2.3428581" target="_blank">Knight's Pub</a> (173 Rue Saint-Jacques, 75005 Paris)
+
+Si vous souhaitez venir, merci de compléter le formulaire suivant : <a href="https://docs.google.com/forms/d/e/1FAIpQLScLVFCQJGP1WJOliMjeU8eGjHWfk-qu3fkTySblBriUi78ypw/viewform?usp=sf_link" target="_blank">https://docs.google.com/... </a>
+
+En espérant vous voir nombreux !

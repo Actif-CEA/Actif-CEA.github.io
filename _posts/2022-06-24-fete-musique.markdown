@@ -3,7 +3,6 @@ title: Fête de la musique
 subtitle: Stand Actif
 layout: default
 modal-id: 3
-date: 2022-06-24
 img: actif-poster.png
 thumbnail: actif-poster-thumbnail.png
 alt: image-alt

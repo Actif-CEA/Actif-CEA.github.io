@@ -3,7 +3,6 @@ title: Politique de Confidentialité
 subtitle: Colloque Climat Energie
 layout: default
 modal-id: 0
-date: 2022-01-01
 alt: image-alt
 date-label: 01-01-2022
 location: Paris Saclay

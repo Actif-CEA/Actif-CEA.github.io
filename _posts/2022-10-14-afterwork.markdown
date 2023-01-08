@@ -3,7 +3,6 @@ title: Afterwork
 subtitle: Paris Sud
 layout: default
 modal-id: 7
-date: 2022-10-04
 img: afterwork.png
 thumbnail: afterwork-thumbnail.png
 alt: image-alt

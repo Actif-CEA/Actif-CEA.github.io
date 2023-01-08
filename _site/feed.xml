@@ -5,9 +5,83 @@
     <description>L'Association CEA des Thésards d'Île-de-France (ACTIF) a pour objectifs d'accompagner les étudiants et jeunes chercheurs au CEA.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 09 Nov 2022 12:28:58 +0100</pubDate>
-    <lastBuildDate>Wed, 09 Nov 2022 12:28:58 +0100</lastBuildDate>
+    <pubDate>Sun, 08 Jan 2023 22:07:29 +0100</pubDate>
+    <lastBuildDate>Sun, 08 Jan 2023 22:07:29 +0100</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Tasses ACTIF</title>
+        <description>&lt;p&gt;Des tasses aux couleurs d’ACTIF on été crées suite à l’élection du nouveau logo !&lt;/p&gt;
+
+&lt;p&gt;Vous pouvez en acquérir une pour la modique somme de 10€.&lt;/p&gt;
+
+&lt;p&gt;Tasses mades in France et sublimées en France, profitez-en !&lt;/p&gt;
+</description>
+        <pubDate></pubDate>
+        <link>http://localhost:4000/communication/2022/12/11/achat_tasses/</link>
+        <guid isPermaLink="true">http://localhost:4000/communication/2022/12/11/achat_tasses/</guid>
+        
+        
+        <category>Communication</category>
+        
+      </item>
+    
+      <item>
+        <title>Sondage doctorants</title>
+        <description>&lt;p&gt;ACTIF souhaiterait avoir vos retours concernant l’année 2022 et connaître vos vœux 🎆pour l’année 2023.&lt;/p&gt;
+
+&lt;p&gt;Merci de nous réserver 10 petites minutes de votre temps pour compléter le sondage suivant (sondage français): &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSdEs6QftntIcXwQJxcpZ6NMK3Z2o-7StTtuwPgIeulZBlvIXA/viewform?usp=sf_link&quot; target=&quot;_blank&quot;&gt;ici&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Please take 10 minutes to fill the following survey (english version): &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLScpbtB7B_wfJvIMIOPACUIy9apDV77MjgS4eo0uuIkyJjBBew/viewform?usp=sf_link&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 15 Jan 2023 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/communication/2022/12/10/sondage-copy/</link>
+        <guid isPermaLink="true">http://localhost:4000/communication/2022/12/10/sondage-copy/</guid>
+        
+        
+        <category>Communication</category>
+        
+      </item>
+    
+      <item>
+        <title>Visite Synchrotron</title>
+        <description>&lt;p&gt;Nous prévoyons d’organiser une visite groupée du synchrotron soleil situé sur le site de L’Orme des Merisiers 91190 Saint-Aubin.&lt;/p&gt;
+
+&lt;p&gt;Cette visite durera une demi journée et se déroulera fin janvier / début février, vous devrez vous rendre sur le site par vos propres moyens.&lt;/p&gt;
+
+&lt;p&gt;Pour vous inscrire, merci de compléter le formulaire d’inscription suivant:&lt;/p&gt;
+
+&lt;p&gt;Localisation de l’évènement:&lt;/p&gt;
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10531.084833855268!2d2.136547768370235!3d48.70985381910756!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e67f6f9b10bb53%3A0xedec3da4ea9d1d91!2sSynchrotron%20SOLEIL%20-%20CNRS%20-%20CEA%20Paris-Saclay!5e0!3m2!1sfr!2sfr!4v1672049912806!5m2!1sfr!2sfr&quot; width=&quot;600&quot; height=&quot;450&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer-when-downgrade&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Sun, 15 Jan 2023 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/visite/2022/12/09/synchrotron/</link>
+        <guid isPermaLink="true">http://localhost:4000/visite/2022/12/09/synchrotron/</guid>
+        
+        
+        <category>Visite</category>
+        
+      </item>
+    
+      <item>
+        <title>Nouveau Logo élu</title>
+        <description>&lt;p&gt;Le logo d’ACTIF fait peau neuve !&lt;/p&gt;
+
+&lt;p&gt;Les membres présents à l’afterwork du 17/11/2022 on pu élire le nouveau logo de l’association !&lt;/p&gt;
+
+&lt;p&gt;Le vainqueur remportera une tasse gratuite ayant ce logo très prochainement !&lt;/p&gt;
+
+&lt;p&gt;Merci à l’ensemble des participants, ayant produit les propositions suivantes:&lt;/p&gt;
+</description>
+        <pubDate>Fri, 18 Nov 2022 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/art/2022/11/10/nouveau_logo/</link>
+        <guid isPermaLink="true">http://localhost:4000/art/2022/11/10/nouveau_logo/</guid>
+        
+        
+        <category>Art</category>
+        
+      </item>
     
       <item>
         <title>Afterwork</title>
@@ -22,9 +96,9 @@ On profitera de cette occasion pour réaliser le vote pour élire le nouveau log
 
 &lt;p&gt;En espérant vous voir nombreux !&lt;/p&gt;
 </description>
-        <pubDate>Wed, 09 Nov 2022 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/communication/2022/11/09/afterwork/</link>
-        <guid isPermaLink="true">http://localhost:4000/communication/2022/11/09/afterwork/</guid>
+        <pubDate>Thu, 17 Nov 2022 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/communication/2022/11/09/afterwork_2/</link>
+        <guid isPermaLink="true">http://localhost:4000/communication/2022/11/09/afterwork_2/</guid>
         
         
         <category>Communication</category>
@@ -33,7 +107,7 @@ On profitera de cette occasion pour réaliser le vote pour élire le nouveau log
     
       <item>
         <title>Randonnée</title>
-        <description>&lt;p&gt;On te propose de partir faire une randonnée à la journée le 11/11/2022.&lt;/p&gt;
+        <description>&lt;p&gt;On te propose de partir faire une randonnée à la journée le 12/11/2022.&lt;/p&gt;
 
 &lt;p&gt;Elle se déroulera dans la vallée de chevreuse !&lt;/p&gt;
 
@@ -43,7 +117,7 @@ On profitera de cette occasion pour réaliser le vote pour élire le nouveau log
 
 &lt;p&gt;A bientôt !&lt;/p&gt;
 </description>
-        <pubDate>Tue, 08 Nov 2022 00:00:00 +0100</pubDate>
+        <pubDate>Sat, 12 Nov 2022 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/communication/2022/11/08/randonne/</link>
         <guid isPermaLink="true">http://localhost:4000/communication/2022/11/08/randonne/</guid>
         
@@ -70,9 +144,9 @@ On profitera de cette occasion pour réaliser le vote pour élire le nouveau log
 
 &lt;p&gt;On attend vos retours avec impatience.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 06 Oct 2022 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/communication/2022/10/06/concours/</link>
-        <guid isPermaLink="true">http://localhost:4000/communication/2022/10/06/concours/</guid>
+        <pubDate>Mon, 31 Oct 2022 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/communication/2022/10/31/concours/</link>
+        <guid isPermaLink="true">http://localhost:4000/communication/2022/10/31/concours/</guid>
         
         
         <category>Communication</category>
@@ -87,9 +161,9 @@ On profitera de cette occasion pour réaliser le vote pour élire le nouveau log
 
 &lt;p&gt;Le programme arrive bientôt !&lt;/p&gt;
 </description>
-        <pubDate>Wed, 05 Oct 2022 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/communication/2022/10/05/journee-accueil/</link>
-        <guid isPermaLink="true">http://localhost:4000/communication/2022/10/05/journee-accueil/</guid>
+        <pubDate>Fri, 21 Oct 2022 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/communication/2022/10/21/journee-accueil/</link>
+        <guid isPermaLink="true">http://localhost:4000/communication/2022/10/21/journee-accueil/</guid>
         
         
         <category>Communication</category>
@@ -106,22 +180,9 @@ On profitera de cette occasion pour réaliser le vote pour élire le nouveau log
 
 &lt;p&gt;En espérant vous voir nombreux !&lt;/p&gt;
 </description>
-        <pubDate>Tue, 04 Oct 2022 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/communication/2022/10/04/afterwork/</link>
-        <guid isPermaLink="true">http://localhost:4000/communication/2022/10/04/afterwork/</guid>
-        
-        
-        <category>Communication</category>
-        
-      </item>
-    
-      <item>
-        <title>Journée des associations</title>
-        <description>&lt;p&gt;Tu te demandes ce que fait ACTIF ? Quels sont les prochains évènements ? Viens nous rencontrer sur le site de Saclay pendant la journée des associations entre 12h et 14h.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 21 Sep 2022 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/communication/2022/09/21/journee-asso/</link>
-        <guid isPermaLink="true">http://localhost:4000/communication/2022/09/21/journee-asso/</guid>
+        <pubDate>Fri, 14 Oct 2022 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/communication/2022/10/14/afterwork/</link>
+        <guid isPermaLink="true">http://localhost:4000/communication/2022/10/14/afterwork/</guid>
         
         
         <category>Communication</category>
@@ -213,59 +274,11 @@ On profitera de cette occasion pour réaliser le vote pour élire le nouveau log
 &lt;/div&gt;
 </description>
         <pubDate>Fri, 16 Sep 2022 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/colloque/2022/09/16/agir-colloque/</link>
-        <guid isPermaLink="true">http://localhost:4000/colloque/2022/09/16/agir-colloque/</guid>
+        <link>http://localhost:4000/colloque/2022/06/29/agir-colloque/</link>
+        <guid isPermaLink="true">http://localhost:4000/colloque/2022/06/29/agir-colloque/</guid>
         
         
         <category>Colloque</category>
-        
-      </item>
-    
-      <item>
-        <title>Fête de la musique</title>
-        <description>&lt;p&gt;L’association ACTIF revient sur le site de Saclay pour la fête de la musique 🎼 🎷 ! Viens nous voir sur notre stand entre midi et deux le 24 juin !! Tu as des idées de projets associatifs ? Tu veux t’engager auprès d’une équipe motivée ? Viens nous rencontrer !&lt;/p&gt;
-</description>
-        <pubDate>Fri, 24 Jun 2022 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/communication/2022/06/24/fete-musique/</link>
-        <guid isPermaLink="true">http://localhost:4000/communication/2022/06/24/fete-musique/</guid>
-        
-        
-        <category>Communication</category>
-        
-      </item>
-    
-      <item>
-        <title>Politique de Confidentialité</title>
-        <description>&lt;p&gt;Nous recevons, collectons et stockons toute information que vous saisissez. En outre, nous recueillons les informations saisies dans le formulaire de contact: nom, adresse mail, téléphone si complété et contenu du message. Ce contenu est récupéré dans un google form et stocké sur un drive gratuit hébergé par la société Google.&lt;/p&gt;
-
-&lt;p&gt;Nous recueillons ces informations non personnelles et personnelles aux fins suivantes :
-    Pouvoir apporter une réponse à tout utilisateur souhaitant nous contacter.&lt;/p&gt;
-
-&lt;p&gt;Ce site est hébergé par la plateforme Github. Les données issues du formulaires sont stocké sur un drive gratuit hébergé par Google. Vos données peuvent être stockées par le biais du stockage de données, des bases de données et des applications générales de github.com et google.com. Elles stockent vos données sur des serveurs sécurisés derrière un pare-feu.&lt;/p&gt;
-
-&lt;p&gt;Si vous ne souhaitez plus que nous traitions vos données, veuillez nous contacter par mail à l’adresse actif.cea@gmail.com, vos données transmises via le formulaire de l’application seront alors supprimées.&lt;/p&gt;
-
-&lt;p&gt;Nous nous réservons le droit de modifier cette politique de confidentialité à tout moment, aussi nous vous invitons à la consulter fréquemment. Les modifications et les clarifications prendront effet dès leur publication sur le site web. Si nous apportons des modifications importantes à la présente politique, nous vous informerons ici de sa mise à jour, afin que vous sachiez quelles informations nous recueillons, comment nous les utilisons et dans quelles circonstances, le cas échéant, nous les utilisons et/ou les divulguons.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 01 Jan 2022 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/confidentialit%C3%A9/2022/01/01/confidentiality/</link>
-        <guid isPermaLink="true">http://localhost:4000/confidentialit%C3%A9/2022/01/01/confidentiality/</guid>
-        
-        
-        <category>Confidentialité</category>
-        
-      </item>
-    
-      <item>
-        <title>YRLS Conference</title>
-        <description>&lt;p&gt;The YRLS conferences features an interactive program that includes posters, talks, round tables and workshops to allow young researchers to present their ongoing work, learn from experts, actively engage in discussions with their peers and invited speakers, share their experience, exchange ideas and build new collaborations. Each year, we welcome around 200 attendees from different countries with different scientific backgrounds.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 15 Mar 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/conference/2019/03/15/yrls-conf/</link>
-        <guid isPermaLink="true">http://localhost:4000/conference/2019/03/15/yrls-conf/</guid>
-        
-        
-        <category>Conference</category>
         
       </item>
     

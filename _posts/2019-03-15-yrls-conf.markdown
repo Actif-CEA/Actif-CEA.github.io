@@ -3,7 +3,6 @@ title: YRLS Conference
 subtitle: Young Researchers in Life Science
 layout: default
 modal-id: 1
-date: 2019-03-15
 img: yrls.jpg
 thumbnail: yrls_thumbnail.jpg
 alt: image-alt

@@ -3,7 +3,6 @@ title: Concours de création de logo
 subtitle: Art graphique
 layout: default
 modal-id: 8
-date: 2022-10-06
 img: logo-actif-thumbnail.png
 thumbnail: logo-actif-thumbnail.png
 alt: image-alt

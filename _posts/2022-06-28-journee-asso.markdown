@@ -3,7 +3,6 @@ title: Journée des associations
 subtitle: Associations sportives & culturelles
 layout: default
 modal-id: 4
-date: 2022-09-21
 img: journee-des-asso.jpg
 thumbnail: journee-des-asso-thumbnail.jpg
 alt: image-alt

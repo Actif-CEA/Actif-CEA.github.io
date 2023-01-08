@@ -3,7 +3,6 @@ title: Agir
 subtitle: Colloque Climat Energie
 layout: default
 modal-id: 5
-date: 2022-09-16
 img: lecon-climat.png
 thumbnail: lecon-climat-thumbnail.png
 alt: image-alt

@@ -3,7 +3,6 @@ title: Accueil des doctorants
 subtitle: Journée d'accueil
 layout: default
 modal-id: 6
-date: 2022-10-05
 img: journee-accueil.jpg
 thumbnail: journee-accueil-thumbnail.png
 alt: image-alt

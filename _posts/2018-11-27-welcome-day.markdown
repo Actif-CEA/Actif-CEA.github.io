@@ -3,7 +3,6 @@ title: ACTIF Welcome Day
 subtitle: Journée d'accueil
 layout: default
 modal-id: 2
-date: 2018-11-27
 img: welcome-day-thumbnail.jpg
 thumbnail: welcome-day-thumbnail.jpg
 alt: image-alt
