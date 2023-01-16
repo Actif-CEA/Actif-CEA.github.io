@@ -5,8 +5,8 @@
     <description>L'Association CEA des Thésards d'Île-de-France (ACTIF) a pour objectifs d'accompagner les étudiants et jeunes chercheurs au CEA.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 08 Jan 2023 22:07:29 +0100</pubDate>
-    <lastBuildDate>Sun, 08 Jan 2023 22:07:29 +0100</lastBuildDate>
+    <pubDate>Mon, 16 Jan 2023 22:56:28 +0100</pubDate>
+    <lastBuildDate>Mon, 16 Jan 2023 22:56:28 +0100</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
@@ -50,12 +50,13 @@
 
 &lt;p&gt;Cette visite durera une demi journée et se déroulera fin janvier / début février, vous devrez vous rendre sur le site par vos propres moyens.&lt;/p&gt;
 
-&lt;p&gt;Pour vous inscrire, merci de compléter le formulaire d’inscription suivant:&lt;/p&gt;
+&lt;p&gt;Pour vous inscrire, merci de compléter le formulaire d’inscription suivant:
+&lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLScd-TqpJVhG5j2AQMndZc4rGXeO_3NVcVDactjRV-Ahsj8kpQ/viewform?usp=sf_link&quot; target=&quot;_blank&quot;&gt;https://docs.google.com/… &lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Localisation de l’évènement:&lt;/p&gt;
 &lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10531.084833855268!2d2.136547768370235!3d48.70985381910756!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e67f6f9b10bb53%3A0xedec3da4ea9d1d91!2sSynchrotron%20SOLEIL%20-%20CNRS%20-%20CEA%20Paris-Saclay!5e0!3m2!1sfr!2sfr!4v1672049912806!5m2!1sfr!2sfr&quot; width=&quot;600&quot; height=&quot;450&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer-when-downgrade&quot;&gt;&lt;/iframe&gt;
 </description>
-        <pubDate>Sun, 15 Jan 2023 00:00:00 +0100</pubDate>
+        <pubDate>Wed, 15 Feb 2023 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/visite/2022/12/09/synchrotron/</link>
         <guid isPermaLink="true">http://localhost:4000/visite/2022/12/09/synchrotron/</guid>
         
@@ -80,6 +81,26 @@
         
         
         <category>Art</category>
+        
+      </item>
+    
+      <item>
+        <title>Afterwork</title>
+        <description>&lt;p&gt;ACTIF organise un afterwork 🍺 le 18/01/2023, l’évènement commencera à 19h.
+On profitera de cette occasion pour réaliser le vote pour élire le nouveau logo de l’association !&lt;/p&gt;
+
+&lt;p&gt;Le tout se déroulera au &lt;a href=&quot;https://www.google.fr/maps/place/Knight's+Pub/@48.8455358,2.3381671,16.13z/data=!4m5!3m4!1s0x47e67127a3de42d9:0x4a50a1942c8ffc47!8m2!3d48.8456201!4d2.3428581&quot; target=&quot;_blank&quot;&gt;Knight’s Pub&lt;/a&gt; (173 Rue Saint-Jacques, 75005 Paris)&lt;/p&gt;
+
+&lt;p&gt;Si vous souhaitez venir, merci de compléter le formulaire suivant : &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLScLVFCQJGP1WJOliMjeU8eGjHWfk-qu3fkTySblBriUi78ypw/viewform?usp=sf_link&quot; target=&quot;_blank&quot;&gt;https://docs.google.com/… &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;En espérant vous voir nombreux !&lt;/p&gt;
+</description>
+        <pubDate>Wed, 18 Jan 2023 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/social/2022/11/09/afterwork_3/</link>
+        <guid isPermaLink="true">http://localhost:4000/social/2022/11/09/afterwork_3/</guid>
+        
+        
+        <category>Social</category>
         
       </item>
     
@@ -186,99 +207,6 @@ On profitera de cette occasion pour réaliser le vote pour élire le nouveau log
         
         
         <category>Communication</category>
-        
-      </item>
-    
-      <item>
-        <title>Agir</title>
-        <description>&lt;p&gt;L’INSTN organise le colloque “Climat et énergie: Agir pour un développement durable” à destination des étudiants, des doctorants et des jeunes ingénieurs. Il aura lieu dans l’amphithéâtre de l’INSTN le 16/09/2022. Deux sessions identiques auront lieu de 8h30 à 12h et de 13h à 16h30.&lt;/p&gt;
-
-&lt;p&gt;Le programme est le suivant:&lt;/p&gt;
-&lt;div class=&quot;table-responsive&quot;&gt;
-    &lt;table class=&quot;table table-striped table-hover&quot;&gt;
-    &lt;thead&gt;
-        &lt;tr&gt;
-        &lt;th scope=&quot;col&quot;&gt;Heure&lt;/th&gt;
-        &lt;th scope=&quot;col&quot; class=&quot;text-center&quot;&gt;Programme&lt;/th&gt;
-        &lt;th scope=&quot;col&quot; class=&quot;text-center&quot;&gt;Intervenant&lt;/th&gt;
-        &lt;/tr&gt;
-    &lt;/thead&gt;
-    &lt;tbody&gt;
-        &lt;tr&gt;
-            &lt;td colspan=&quot;3&quot;&gt;&lt;b&gt;Session 1&lt;/b&gt;&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;th scope=&quot;row&quot;&gt;8h30-9h&lt;/th&gt;
-            &lt;td&gt;Accueil café et stand Poster&lt;/td&gt;   
-            &lt;td&gt;&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;th scope=&quot;row&quot;&gt;9h-9h15&lt;/th&gt;
-            &lt;td&gt;Présentation du programme de la matinée&lt;/td&gt;   
-            &lt;td&gt;ACTIF&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;th scope=&quot;row&quot;&gt;9h15-10h15&lt;/th&gt;
-            &lt;td&gt;Limites planétaires : quels enjeux de transformation ? comment orienter la R&amp;amp;D ?&lt;/td&gt;
-            &lt;td&gt;David Game, directeur prospective RTE&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;th scope=&quot;row&quot;&gt;10h15-11h&lt;/th&gt;
-            &lt;td&gt;Témoignage étudiant, constat et frein à l’action&lt;/td&gt;
-            &lt;td&gt;Pour un réveil écologique&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;th scope=&quot;row&quot;&gt;11h-11h20&lt;/th&gt;
-            &lt;td&gt;Pause&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;th scope=&quot;row&quot;&gt;11h20-12h&lt;/th&gt;
-            &lt;td&gt;Table ronde&lt;/td&gt;
-            &lt;td&gt;Pour un réveil écologique, énergies et Sociétés, David Game, ACTIF&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;td colspan=&quot;3&quot;&gt;&lt;b&gt;Session 2 (in english)&lt;/b&gt;&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;th scope=&quot;row&quot;&gt;13h-13h30&lt;/th&gt;
-            &lt;td&gt;Welcome coffee and poster stand&lt;/td&gt;   
-            &lt;td&gt;&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;th scope=&quot;row&quot;&gt;13h30-13h45&lt;/th&gt;
-            &lt;td&gt;Présentation of the afternoon program&lt;/td&gt;   
-            &lt;td&gt;ACTIF&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;th scope=&quot;row&quot;&gt;13h45-14h45&lt;/th&gt;
-            &lt;td&gt;&quot;Planetary boundaries: what are the stakes of transformation?&quot; How to guide R&amp;amp;D?&lt;/td&gt;
-            &lt;td&gt;David Game, director of R&amp;amp;D program at RTE&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;th scope=&quot;row&quot;&gt;14h45-15h&lt;/th&gt;
-            &lt;td&gt;Break&lt;/td&gt;
-            &lt;td&gt;&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;th scope=&quot;row&quot;&gt;15h-15h45&lt;/th&gt;
-            &lt;td&gt;Student testimonials, observations and brake on action&lt;/td&gt;
-            &lt;td&gt;Pour un réveil écologique&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;th scope=&quot;row&quot;&gt;15h45-16h30&lt;/th&gt;
-            &lt;td&gt;Round table&lt;/td&gt;
-            &lt;td&gt;Pour un réveil écologique, énergies et Sociétés, David Game, ACTIF&lt;/td&gt;
-        &lt;/tr&gt;
-    &lt;/tbody&gt;
-    &lt;/table&gt;s
-&lt;/div&gt;
-</description>
-        <pubDate>Fri, 16 Sep 2022 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/colloque/2022/06/29/agir-colloque/</link>
-        <guid isPermaLink="true">http://localhost:4000/colloque/2022/06/29/agir-colloque/</guid>
-        
-        
-        <category>Colloque</category>
         
       </item>
     
