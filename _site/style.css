@@ -31,6 +31,10 @@ body {
     color: #B20E0C;
 }
 
+.text-secondary {
+    color: #C6110E;
+}
+
 .hover-secondary:hover {
     color: #C6110E;
     cursor: pointer;
@@ -362,6 +366,15 @@ section h2.section-heading {
 
 section h3.section-subheading {
     margin-bottom: 75px;
+    text-transform: none;
+    font-family: "Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 400;
+}
+
+section h3.section-heading {
+    margin-bottom: 15px;
     text-transform: none;
     font-family: "Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif;
     font-size: 16px;
