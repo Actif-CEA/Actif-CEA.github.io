@@ -5,9 +5,71 @@
     <description>L'Association CEA des Thésards d'Île-de-France (ACTIF) a pour objectifs d'accompagner les étudiants et jeunes chercheurs au CEA.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 17 Feb 2023 22:44:53 +0100</pubDate>
-    <lastBuildDate>Fri, 17 Feb 2023 22:44:53 +0100</lastBuildDate>
+    <pubDate>Tue, 28 Mar 2023 23:09:36 +0200</pubDate>
+    <lastBuildDate>Tue, 28 Mar 2023 23:09:36 +0200</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Voyage Cadarache &amp; ITER</title>
+        <description>&lt;p&gt;Un voyage est organisé pour la visite du site du CEA Cadarache ainsi que le projet ITER !&lt;br /&gt;
+Ce voyage se déroulera du 17 au 19 juin !&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Au programme&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Samedi 17 juin:&lt;br /&gt;
+Départ de Paris gare de Lyon à 7h35&lt;br /&gt;
+Arrivée à Marseille à 10h&lt;br /&gt;
+Déjeuner et visite de Marseille&lt;br /&gt;
+Diner et soirée avec les membres de l’ASTHEC (thésards du site de Cadarache)&lt;/p&gt;
+
+&lt;p&gt;Dimanche 18 juin: 
+Départ groupé 10h30 (Prévoir l’achat d’un repas pour le midi) 
+Découvertes des Callanques de Cassis (accès en train)
+Retour sur Marseille en fin d’après-midi
+Soirée libre ou restaurant &amp;amp; bar avec l’équipe organisatrice&lt;/p&gt;
+
+&lt;p&gt;Lundi 19 juin:&lt;br /&gt;
+Départ groupé 8h30&lt;br /&gt;
+Visite des installations fission du CEA Cadarache&lt;br /&gt;
+Visite tokamak WEST&lt;br /&gt;
+Visite du projet ITER &lt;br /&gt;
+Départ d’Aix-en-Provence à 17h50&lt;br /&gt;
+Arrivée à Paris Gare de Lyon 22h&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;20 places&lt;/strong&gt; sont ouvertes pour ce voyage.&lt;br /&gt;
+Le coût du voyage s’élèvera a &lt;strong&gt;200€&lt;/strong&gt;, ce qui inclut transport en train, visite et logement partagé avec d’autres membres du voyage.
+Les frais de restauration restent à votre charge.
+Ce voyage nécessite de poser un jour de congé le lundi 19 juin, ou d’avoir l’accord de votre manager.&lt;/p&gt;
+
+&lt;p&gt;Les pré-inscriptions ouvrent bientôt !&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 20 Jun 2023 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/visite/2023/03/21/Cadarache/</link>
+        <guid isPermaLink="true">http://localhost:4000/visite/2023/03/21/Cadarache/</guid>
+        
+        
+        <category>Visite</category>
+        
+      </item>
+    
+      <item>
+        <title>Formation RPS</title>
+        <description>&lt;p&gt;Une réunion d’information sur les Risques PsychoSociaux (RPS) aura lieu le 26/04 de 11h à 12h30.&lt;/p&gt;
+
+&lt;p&gt;Deux intervenantes du CEA et de l’ED ITFA seront là pour répondre à vos questions !&lt;/p&gt;
+
+&lt;p&gt;Pour participer, merci de compléter le formulaire d’inscription suivant:s
+&lt;a href=&quot;https://framaforms.org/inscription-a-la-reunion-dinformation-sur-les-risques-psychosociaux-rps-et-sur-la-gestion-de-conflit&quot; target=&quot;_blank&quot;&gt;https://framaforms.org/… &lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 26 Apr 2023 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/visite/2023/03/20/RPS/</link>
+        <guid isPermaLink="true">http://localhost:4000/visite/2023/03/20/RPS/</guid>
+        
+        
+        <category>Visite</category>
+        
+      </item>
     
       <item>
         <title>Visite Synchrotron</title>
@@ -17,6 +79,10 @@
 
 &lt;p&gt;Pour vous inscrire, merci de compléter le formulaire d’inscription suivant:
 &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLScd-TqpJVhG5j2AQMndZc4rGXeO_3NVcVDactjRV-Ahsj8kpQ/viewform?usp=sf_link&quot; target=&quot;_blank&quot;&gt;https://docs.google.com/… &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Merci aux personnes ayant participé à l’évènement !!&lt;br /&gt;
+&lt;img src=&quot;img/portfolio/2023-02-16-synchrotron-img1.jpeg&quot; style=&quot;width:49%&quot; /&gt;
+&lt;img src=&quot;img/portfolio/2023-02-16-synchrotron-img2.jpg&quot; style=&quot;width:49%&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Localisation de l’évènement:&lt;/p&gt;
 &lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10531.084833855268!2d2.136547768370235!3d48.70985381910756!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e67f6f9b10bb53%3A0xedec3da4ea9d1d91!2sSynchrotron%20SOLEIL%20-%20CNRS%20-%20CEA%20Paris-Saclay!5e0!3m2!1sfr!2sfr!4v1672049912806!5m2!1sfr!2sfr&quot; width=&quot;600&quot; height=&quot;450&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer-when-downgrade&quot;&gt;&lt;/iframe&gt;
@@ -119,6 +185,12 @@
 &lt;p&gt;Le vainqueur remportera une tasse gratuite ayant ce logo très prochainement !&lt;/p&gt;
 
 &lt;p&gt;Merci à l’ensemble des participants, ayant produit les propositions suivantes:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;img/portfolio/2022-11-10-nouveau_logo-img1.png&quot; class=&quot;img-centered img-parent-width&quot; /&gt;
+&lt;img src=&quot;img/portfolio/2022-11-10-nouveau_logo-img2.png&quot; class=&quot;img-centered img-parent-width&quot; /&gt;
+&lt;img src=&quot;img/portfolio/2022-11-10-nouveau_logo-img3.png&quot; class=&quot;img-centered img-parent-width&quot; /&gt;
+&lt;img src=&quot;img/portfolio/2022-11-10-nouveau_logo-img4.png&quot; class=&quot;img-centered img-parent-width&quot; /&gt;&lt;/p&gt;
+
 </description>
         <pubDate>Fri, 18 Nov 2022 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/art/2022/11/10/nouveau_logo/</link>
@@ -165,54 +237,6 @@ On profitera de cette occasion pour réaliser le vote pour élire le nouveau log
         <pubDate>Thu, 17 Nov 2022 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/communication/2022/11/09/afterwork_2/</link>
         <guid isPermaLink="true">http://localhost:4000/communication/2022/11/09/afterwork_2/</guid>
-        
-        
-        <category>Communication</category>
-        
-      </item>
-    
-      <item>
-        <title>Randonnée</title>
-        <description>&lt;p&gt;On te propose de partir faire une randonnée à la journée le 12/11/2022.&lt;/p&gt;
-
-&lt;p&gt;Elle se déroulera dans la vallée de chevreuse !&lt;/p&gt;
-
-&lt;p&gt;Si tu es intéressé, tu peux envoyer un mail à &lt;a href=&quot;mailto:valentin.gilbert@cea.fr&quot;&gt;valentin.gilbert@cea.fr&lt;/a&gt;. On t’ajoutera alors au groupe WhatsApp des participants !&lt;/p&gt;
-
-&lt;p&gt;Au programme: randonnée, pique-nique collaboratif, passage à la ferme Coubertin.&lt;/p&gt;
-
-&lt;p&gt;A bientôt !&lt;/p&gt;
-</description>
-        <pubDate>Sat, 12 Nov 2022 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/communication/2022/11/08/randonne/</link>
-        <guid isPermaLink="true">http://localhost:4000/communication/2022/11/08/randonne/</guid>
-        
-        
-        <category>Communication</category>
-        
-      </item>
-    
-      <item>
-        <title>Concours de création de logo</title>
-        <description>&lt;p&gt;Le logo d’ACTIF fait peau neuve ! Vous voulez participer ?&lt;/p&gt;
-
-&lt;p&gt;Vous avez jusqu’au 31 octobre pour nous soumettre votre version du nouveau logo (valentin.gilbert@cea.fr)&lt;/p&gt;
-
-&lt;p&gt;Il doit représenter les thésards du CEA toutes disciplines confondues. N’hésitez pas à faire jouer votre imagination !&lt;/p&gt;
-
-&lt;p&gt;Nous organiserons un vote pour choisir la ou le gagnant.e qui recevra une petite surprise !&lt;/p&gt;
-
-&lt;p&gt;Voici quelques couleurs qui peuvent être utilisées (mais qui ne sont pas obligatoires) :&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;img/portfolio/codes_couleurs_logo.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;A vos crayons et/ou claviers !&lt;/p&gt;
-
-&lt;p&gt;On attend vos retours avec impatience.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 31 Oct 2022 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/communication/2022/10/31/concours/</link>
-        <guid isPermaLink="true">http://localhost:4000/communication/2022/10/31/concours/</guid>
         
         
         <category>Communication</category>

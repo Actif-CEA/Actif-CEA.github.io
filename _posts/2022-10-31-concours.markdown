@@ -21,7 +21,7 @@ Nous organiserons un vote pour choisir la ou le gagnant.e qui recevra une petite
 
 Voici quelques couleurs qui peuvent être utilisées (mais qui ne sont pas obligatoires) : 
 
-<img src="img/portfolio/codes_couleurs_logo.png"/>
+<img src="img/portfolio/codes_couleurs_logo.png" class="img-centered img-parent-width"/>
 
 A vos crayons et/ou claviers !
 

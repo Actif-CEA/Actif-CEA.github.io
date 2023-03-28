@@ -18,3 +18,9 @@ Les membres présents à l'afterwork du 17/11/2022 on pu élire le nouveau logo 
 Le vainqueur remportera une tasse gratuite ayant ce logo très prochainement !
 
 Merci à l'ensemble des participants, ayant produit les propositions suivantes:
+
+<img src="img/portfolio/2022-11-10-nouveau_logo-img1.png" class="img-centered img-parent-width"/>
+<img src="img/portfolio/2022-11-10-nouveau_logo-img2.png" class="img-centered img-parent-width"/>
+<img src="img/portfolio/2022-11-10-nouveau_logo-img3.png" class="img-centered img-parent-width"/>
+<img src="img/portfolio/2022-11-10-nouveau_logo-img4.png" class="img-centered img-parent-width"/>
+
