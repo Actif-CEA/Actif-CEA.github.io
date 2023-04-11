@@ -5,8 +5,8 @@
     <description>L'Association CEA des Thésards d'Île-de-France (ACTIF) a pour objectifs d'accompagner les étudiants et jeunes chercheurs au CEA.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 28 Mar 2023 23:29:22 +0200</pubDate>
-    <lastBuildDate>Tue, 28 Mar 2023 23:29:22 +0200</lastBuildDate>
+    <pubDate>Tue, 11 Apr 2023 17:21:47 +0200</pubDate>
+    <lastBuildDate>Tue, 11 Apr 2023 17:21:47 +0200</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
@@ -16,25 +16,7 @@ Ce voyage se déroulera du 17 au 19 juin !&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Au programme&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Samedi 17 juin:&lt;br /&gt;
-Départ de Paris gare de Lyon à 7h35&lt;br /&gt;
-Arrivée à Marseille à 10h&lt;br /&gt;
-Déjeuner et visite de Marseille&lt;br /&gt;
-Diner et soirée avec les membres de l’ASTHEC (thésards du site de Cadarache)&lt;/p&gt;
-
-&lt;p&gt;Dimanche 18 juin:&lt;br /&gt;
-Départ groupé 10h30 (Prévoir l’achat d’un repas pour le midi)&lt;br /&gt;
-Découvertes des Callanques de Cassis (accès en train)&lt;br /&gt;
-Retour sur Marseille en fin d’après-midi&lt;br /&gt;
-Soirée libre ou restaurant &amp;amp; bar avec l’équipe organisatrice&lt;/p&gt;
-
-&lt;p&gt;Lundi 19 juin:&lt;br /&gt;
-Départ groupé 8h30&lt;br /&gt;
-Visite des installations fission du CEA Cadarache&lt;br /&gt;
-Visite tokamak WEST&lt;br /&gt;
-Visite du projet ITER &lt;br /&gt;
-Départ d’Aix-en-Provence à 17h50&lt;br /&gt;
-Arrivée à Paris Gare de Lyon 22h&lt;/p&gt;
+&lt;p&gt;Le programme sera dévoilé jeudi 13 avril à l’afterwork qui se tiendra au Deer&amp;amp;Beer !!s&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;20 places&lt;/strong&gt; sont ouvertes pour ce voyage.&lt;br /&gt;
 Le coût du voyage s’élèvera a &lt;strong&gt;200€&lt;/strong&gt;, ce qui inclut transport en train, visite et logement partagé avec d’autres membres du voyage.
@@ -68,6 +50,27 @@ Ce voyage nécessite de poser un jour de congé le lundi 19 juin, ou d’avoir l
         
         
         <category>Visite</category>
+        
+      </item>
+    
+      <item>
+        <title>Afterwork</title>
+        <description>&lt;p&gt;ACTIF organise un voyage pour aller visiter les sites du CEA Cadarache et ITER (3 jours de voyage et 200€ de participation) ! Le programme du voyage sera dévoilé à cet afterwork ! &lt;/p&gt;
+
+&lt;p&gt;L’ACTIF vous donne rendez-vous &lt;strong&gt;jeudi 13/04/2023&lt;/strong&gt; à partir de &lt;strong&gt;18h&lt;/strong&gt; au &lt;strong&gt;Deer &amp;amp; Beer&lt;/strong&gt; (à l’étage) 🍺 pour un afterwork à deux pas de la gare de Massy-Palaiseau (RER B).&lt;/p&gt;
+
+&lt;p&gt;Si vous souhaitez venir, merci de compléter le formulaire suivant :
+&lt;a href=&quot;https://framaforms.org/afterwork-actif-1304-18h-1680769954&quot; target=&quot;_blank&quot;&gt;https://framaforms.org/…&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Localisation de l’évènement:&lt;/p&gt;
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10527.919837016138!2d2.2623695!3d48.7249746!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e67986a26e8585%3A0xa2fe17e17646fe59!2sDeer%20&amp;#39;n&amp;#39;%20Beer!5e0!3m2!1sfr!2sfr!4v1681226494545!5m2!1sfr!2sfr&quot; width=&quot;600&quot; height=&quot;450&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer-when-downgrade&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Thu, 13 Apr 2023 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/social/2023/03/19/afterwork_4/</link>
+        <guid isPermaLink="true">http://localhost:4000/social/2023/03/19/afterwork_4/</guid>
+        
+        
+        <category>Social</category>
         
       </item>
     
@@ -218,28 +221,6 @@ On profitera de cette occasion pour réaliser le vote pour élire le nouveau log
         
         
         <category>Social</category>
-        
-      </item>
-    
-      <item>
-        <title>Afterwork</title>
-        <description>&lt;p&gt;Curieux de faire la connaissance de nouveaux doctorants ?&lt;/p&gt;
-
-&lt;p&gt;ACTIF organise un afterwork 🍺 le 17/11/2022, l’évènement commencera à 19h.
-On profitera de cette occasion pour réaliser le vote pour élire le nouveau logo de l’association !&lt;/p&gt;
-
-&lt;p&gt;Le tout se déroulera au &lt;a href=&quot;https://www.google.fr/maps/place/Knight's+Pub/@48.8455358,2.3381671,16.13z/data=!4m5!3m4!1s0x47e67127a3de42d9:0x4a50a1942c8ffc47!8m2!3d48.8456201!4d2.3428581&quot; target=&quot;_blank&quot;&gt;Knight’s Pub&lt;/a&gt; (173 Rue Saint-Jacques, 75005 Paris)&lt;/p&gt;
-
-&lt;p&gt;Si vous souhaitez venir, merci de compléter le formulaire suivant : &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLScLVFCQJGP1WJOliMjeU8eGjHWfk-qu3fkTySblBriUi78ypw/viewform?usp=sf_link&quot; target=&quot;_blank&quot;&gt;https://docs.google.com/… &lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;En espérant vous voir nombreux !&lt;/p&gt;
-</description>
-        <pubDate>Thu, 17 Nov 2022 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/communication/2022/11/09/afterwork_2/</link>
-        <guid isPermaLink="true">http://localhost:4000/communication/2022/11/09/afterwork_2/</guid>
-        
-        
-        <category>Communication</category>
         
       </item>
     

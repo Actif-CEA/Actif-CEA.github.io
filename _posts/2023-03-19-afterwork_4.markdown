@@ -1,0 +1,23 @@
+---
+title: Afterwork
+subtitle: Massy
+layout: default
+modal-id: 20
+img: affiche_Cadarache.png
+thumbnail: 2023_03_22-afterwork-thumbnail.png
+alt: image-alt
+project-date: 2023-04-13
+date-label: 13-04-2023 18h
+location: Massy Deer & Beer
+category: Social
+---
+
+ACTIF organise un voyage pour aller visiter les sites du CEA Cadarache et ITER (3 jours de voyage et 200€ de participation) ! Le programme du voyage sera dévoilé à cet afterwork ! 
+
+L’ACTIF vous donne rendez-vous <strong>jeudi 13/04/2023</strong> à partir de <strong>18h</strong> au <strong>Deer & Beer</strong> (à l'étage) 🍺 pour un afterwork à deux pas de la gare de Massy-Palaiseau (RER B).
+
+Si vous souhaitez venir, merci de compléter le formulaire suivant :
+<a href="https://framaforms.org/afterwork-actif-1304-18h-1680769954" target="_blank">https://framaforms.org/...</a>
+
+Localisation de l'évènement:
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10527.919837016138!2d2.2623695!3d48.7249746!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e67986a26e8585%3A0xa2fe17e17646fe59!2sDeer%20&#39;n&#39;%20Beer!5e0!3m2!1sfr!2sfr!4v1681226494545!5m2!1sfr!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
