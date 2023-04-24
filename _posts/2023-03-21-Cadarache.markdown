@@ -21,11 +21,11 @@ Samedi 17 juin:
 Départ de Paris gare de Lyon à 7h35  
 Arrivée à Marseille à 10h  
 Déjeuner et visite de Marseille  
-Diner et soirée avec les membres de l'ASTHEC (thésards du site de Cadarache)
+Diner et soirée avec les membres de l'ASTHEC (thésards du site de Cadarache)  
 
 Dimanche 18 juin:  
 Départ groupé 10h30 (Prévoir l'achat d'un repas pour le midi)  
-Découvertes des Callanques
+Découvertes des Callanques  
 Retour sur Marseille en fin d'après-midi  
 Soirée libre ou restaurant & bar avec l'équipe organisatrice  
 
@@ -35,7 +35,7 @@ Visite du projet ITER
 Visite des installations fission du CEA Cadarache  
 Visite tokamak WEST  
 Départ d'Aix-en-Provence à 17h50  
-Arrivée à Paris Gare de Lyon 22h
+Arrivée à Paris Gare de Lyon 22h  
 
 **20 places** sont ouvertes pour ce voyage.  
 Le coût du voyage s'élèvera a **200€**, ce qui inclut transport en train, visite et logement partagé avec d'autres membres du voyage.

@@ -9,7 +9,7 @@ alt: image-alt
 project-date: 2023-04-26
 date-label: 26-04-2023
 location: Paris Saclay
-category: Visite
+category: Conference
 ---
 
 Une réunion d'information sur les Risques PsychoSociaux (RPS) aura lieu le 26/04 de 11h à 12h30.
