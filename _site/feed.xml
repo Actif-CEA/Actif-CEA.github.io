@@ -5,9 +5,40 @@
     <description>L'Association CEA des Thésards d'Île-de-France (ACTIF) a pour objectifs d'accompagner les étudiants et jeunes chercheurs au CEA.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 24 Apr 2023 22:47:49 +0200</pubDate>
-    <lastBuildDate>Mon, 24 Apr 2023 22:47:49 +0200</lastBuildDate>
+    <pubDate>Thu, 08 Jun 2023 23:52:44 +0200</pubDate>
+    <lastBuildDate>Thu, 08 Jun 2023 23:52:44 +0200</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Evènement sur l'après-thèse</title>
+        <description>&lt;p&gt;Le temps d’un Webinaire, 4 anciens doctorants 🎓 du CEA vous parlent de leur retour d’expérience après avoir emprunté différentes voies:&lt;br /&gt;
+Enseignement 👨‍🏫, Post-doc 🎓, Start-up 🚀 et Industrie 🏭 !&lt;/p&gt;
+
+&lt;p&gt;Ca t’intéresse ? Inscris-toi vite ici: &lt;a href=&quot;https://framaforms.org/evenement-apres-these-1685951531&quot; target=&quot;_blank&quot;&gt;https://framaforms.org/… &lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 30 Jun 2023 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/webinaire/2023/05/25/Apres-these-copy/</link>
+        <guid isPermaLink="true">http://localhost:4000/webinaire/2023/05/25/Apres-these-copy/</guid>
+        
+        
+        <category>Webinaire</category>
+        
+      </item>
+    
+      <item>
+        <title>Fête de la musique</title>
+        <description>&lt;p&gt;L’association ACTIF revient sur le site de Saclay pour la fête de la musique 🎼 🎷 ! Viens nous voir sur notre stand entre midi et deux le 23 juin !! Tu as des idées de projets associatifs ? Tu veux t’engager auprès d’une équipe motivée ? Viens nous rencontrer !&lt;/p&gt;
+
+&lt;p&gt;Comme d’habitude, ce sera distribution de crêpes 🥞 pour tout le monde !&lt;/p&gt;
+</description>
+        <pubDate>Fri, 23 Jun 2023 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/communication/2023/05/24/Fete_musique/</link>
+        <guid isPermaLink="true">http://localhost:4000/communication/2023/05/24/Fete_musique/</guid>
+        
+        
+        <category>Communication</category>
+        
+      </item>
     
       <item>
         <title>Voyage Cadarache &amp; ITER</title>
@@ -45,11 +76,57 @@ Ce voyage nécessite de poser un jour de congé le lundi 19 juin, ou d’avoir l
 
 </description>
         <pubDate>Tue, 20 Jun 2023 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/visite/2023/03/21/Cadarache/</link>
-        <guid isPermaLink="true">http://localhost:4000/visite/2023/03/21/Cadarache/</guid>
+        <link>http://localhost:4000/visite/2023/05/23/Cadarache/</link>
+        <guid isPermaLink="true">http://localhost:4000/visite/2023/05/23/Cadarache/</guid>
         
         
         <category>Visite</category>
+        
+      </item>
+    
+      <item>
+        <title>Afterwork</title>
+        <description>&lt;p&gt;ACTIF organise un afterwork 🍺 le 13/06/2023, l’évènement commencera à 19h.
+On profitera de cette occasion pour vous glisser quelques détails sur le voyage à ITER !&lt;/p&gt;
+
+&lt;p&gt;Le tout se déroulera au &lt;a href=&quot;https://www.google.fr/maps/place/Knight's+Pub/@48.8455358,2.3381671,16.13z/data=!4m5!3m4!1s0x47e67127a3de42d9:0x4a50a1942c8ffc47!8m2!3d48.8456201!4d2.3428581&quot; target=&quot;_blank&quot;&gt;Knight’s Pub&lt;/a&gt; (173 Rue Saint-Jacques, 75005 Paris)&lt;/p&gt;
+
+&lt;p&gt;Si vous souhaitez venir, merci de compléter le formulaire suivant : &lt;a href=&quot;https://framaforms.org/afterwork-knights-pub-19h-1685951818&quot; target=&quot;_blank&quot;&gt;https://framaforms.org/… &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;En espérant vous voir nombreux !&lt;/p&gt;
+</description>
+        <pubDate>Tue, 13 Jun 2023 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/social/2023/05/22/Afterwork/</link>
+        <guid isPermaLink="true">http://localhost:4000/social/2023/05/22/Afterwork/</guid>
+        
+        
+        <category>Social</category>
+        
+      </item>
+    
+      <item>
+        <title>Randonnée</title>
+        <description>&lt;p&gt;On te propose de partir faire une randonnée à la journée le 28/05/2023.&lt;/p&gt;
+
+&lt;p&gt;Elle se déroulera à Fontainbleau, départ de la gare de Bois-Le-Roi pour marcher jusqu’à la gare de Fontainebleau-Avon.&lt;/p&gt;
+
+&lt;p&gt;Au programme: randonnée, pique-nique avec l’apéritif offert par ACTIF.&lt;/p&gt;
+
+&lt;p&gt;Vous souhaitez participer ? Envoyez un petit mail à &lt;a href=&quot;&quot;&gt;valentin.gilbert@cea.fr&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;A bientôt !&lt;/p&gt;
+
+&lt;p&gt;Photo des aventuriers:&lt;br /&gt;
+&lt;img src=&quot;img/portfolio/2023_05_22-photo_rando.jpg&quot; style=&quot;width:70%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Un petit aperçu de l’itinéraire (téléchargeable &lt;a href=&quot;/files/rando_fontainebleau.gpx&quot;&gt;ici&lt;/a&gt;)&lt;/p&gt;
+</description>
+        <pubDate>Sat, 12 Nov 2022 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/communication/2023/05/21/Randonee/</link>
+        <guid isPermaLink="true">http://localhost:4000/communication/2023/05/21/Randonee/</guid>
+        
+        
+        <category>Communication</category>
         
       </item>
     
@@ -156,86 +233,6 @@ Ce voyage nécessite de poser un jour de congé le lundi 19 juin, ou d’avoir l
         <pubDate>Thu, 23 Feb 2023 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/social/2023/02/14/afterwork_4-copy/</link>
         <guid isPermaLink="true">http://localhost:4000/social/2023/02/14/afterwork_4-copy/</guid>
-        
-        
-        <category>Social</category>
-        
-      </item>
-    
-      <item>
-        <title>Tasses ACTIF</title>
-        <description>&lt;p&gt;Des tasses aux couleurs d’ACTIF on été crées suite à l’élection du nouveau logo !&lt;/p&gt;
-
-&lt;p&gt;Vous pouvez en acquérir une pour la modique somme de 10€.&lt;/p&gt;
-
-&lt;p&gt;Tasses mades in France et sublimées en France, profitez-en !&lt;/p&gt;
-</description>
-        <pubDate></pubDate>
-        <link>http://localhost:4000/communication/2022/12/11/achat_tasses/</link>
-        <guid isPermaLink="true">http://localhost:4000/communication/2022/12/11/achat_tasses/</guid>
-        
-        
-        <category>Communication</category>
-        
-      </item>
-    
-      <item>
-        <title>Sondage doctorants</title>
-        <description>&lt;p&gt;ACTIF souhaiterait avoir vos retours concernant l’année 2022 et connaître vos vœux 🎆pour l’année 2023.&lt;/p&gt;
-
-&lt;p&gt;Merci de nous réserver 10 petites minutes de votre temps pour compléter le sondage suivant (sondage français): &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSdEs6QftntIcXwQJxcpZ6NMK3Z2o-7StTtuwPgIeulZBlvIXA/viewform?usp=sf_link&quot; target=&quot;_blank&quot;&gt;ici&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Please take 10 minutes to fill the following survey (english version): &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLScpbtB7B_wfJvIMIOPACUIy9apDV77MjgS4eo0uuIkyJjBBew/viewform?usp=sf_link&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 15 Jan 2023 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/communication/2022/12/10/sondage-copy/</link>
-        <guid isPermaLink="true">http://localhost:4000/communication/2022/12/10/sondage-copy/</guid>
-        
-        
-        <category>Communication</category>
-        
-      </item>
-    
-      <item>
-        <title>Nouveau Logo élu</title>
-        <description>&lt;p&gt;Le logo d’ACTIF fait peau neuve !&lt;/p&gt;
-
-&lt;p&gt;Les membres présents à l’afterwork du 17/11/2022 on pu élire le nouveau logo de l’association !&lt;/p&gt;
-
-&lt;p&gt;Le vainqueur remportera une tasse gratuite ayant ce logo très prochainement !&lt;/p&gt;
-
-&lt;p&gt;Merci à l’ensemble des participants, ayant produit les propositions suivantes:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;img/portfolio/2022-11-10-nouveau_logo-img1.png&quot; class=&quot;img-centered img-parent-width&quot; /&gt;
-&lt;img src=&quot;img/portfolio/2022-11-10-nouveau_logo-img2.png&quot; class=&quot;img-centered img-parent-width&quot; /&gt;
-&lt;img src=&quot;img/portfolio/2022-11-10-nouveau_logo-img3.png&quot; class=&quot;img-centered img-parent-width&quot; /&gt;
-&lt;img src=&quot;img/portfolio/2022-11-10-nouveau_logo-img4.png&quot; class=&quot;img-centered img-parent-width&quot; /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 18 Nov 2022 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/art/2022/11/10/nouveau_logo/</link>
-        <guid isPermaLink="true">http://localhost:4000/art/2022/11/10/nouveau_logo/</guid>
-        
-        
-        <category>Art</category>
-        
-      </item>
-    
-      <item>
-        <title>Afterwork</title>
-        <description>&lt;p&gt;ACTIF organise un afterwork 🍺 le 18/01/2023, l’évènement commencera à 19h.
-On profitera de cette occasion pour réaliser le vote pour élire le nouveau logo de l’association !&lt;/p&gt;
-
-&lt;p&gt;Le tout se déroulera au &lt;a href=&quot;https://www.google.fr/maps/place/Knight's+Pub/@48.8455358,2.3381671,16.13z/data=!4m5!3m4!1s0x47e67127a3de42d9:0x4a50a1942c8ffc47!8m2!3d48.8456201!4d2.3428581&quot; target=&quot;_blank&quot;&gt;Knight’s Pub&lt;/a&gt; (173 Rue Saint-Jacques, 75005 Paris)&lt;/p&gt;
-
-&lt;p&gt;Si vous souhaitez venir, merci de compléter le formulaire suivant : &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLScLVFCQJGP1WJOliMjeU8eGjHWfk-qu3fkTySblBriUi78ypw/viewform?usp=sf_link&quot; target=&quot;_blank&quot;&gt;https://docs.google.com/… &lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;En espérant vous voir nombreux !&lt;/p&gt;
-</description>
-        <pubDate>Wed, 18 Jan 2023 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/social/2022/11/09/afterwork_3/</link>
-        <guid isPermaLink="true">http://localhost:4000/social/2022/11/09/afterwork_3/</guid>
         
         
         <category>Social</category>

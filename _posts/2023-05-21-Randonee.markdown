@@ -1,0 +1,27 @@
+---
+title: Randonnée
+subtitle: Fontainebleau
+layout: default
+modal-id: 20
+img: 2023-05-21-Randonnee.png
+thumbnail: 2023-05-21-Randonnee.png
+alt: image-alt
+project-date: 2022-11-12
+date-label: 27-05-2023
+location: Bois-Le-Roi
+category: Communication
+---
+On te propose de partir faire une randonnée à la journée le 28/05/2023.  
+
+Elle se déroulera à Fontainbleau, départ de la gare de Bois-Le-Roi pour marcher jusqu'à la gare de Fontainebleau-Avon.  
+
+Au programme: randonnée, pique-nique avec l'apéritif offert par ACTIF.  
+
+Vous souhaitez participer ? Envoyez un petit mail à <a href="">valentin.gilbert@cea.fr</a>  
+
+A bientôt !  
+
+Photo des aventuriers:  
+<img src="img/portfolio/2023_05_22-photo_rando.jpg" style="width:70%">
+
+Un petit aperçu de l'itinéraire (téléchargeable <a href="/files/rando_fontainebleau.gpx">ici</a>)  
