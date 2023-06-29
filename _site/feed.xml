@@ -5,16 +5,35 @@
     <description>L'Association CEA des Thésards d'Île-de-France (ACTIF) a pour objectifs d'accompagner les étudiants et jeunes chercheurs au CEA.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 08 Jun 2023 23:52:44 +0200</pubDate>
-    <lastBuildDate>Thu, 08 Jun 2023 23:52:44 +0200</lastBuildDate>
+    <pubDate>Fri, 30 Jun 2023 00:31:46 +0200</pubDate>
+    <lastBuildDate>Fri, 30 Jun 2023 00:31:46 +0200</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Afterwork</title>
+        <description>&lt;p&gt;ACTIF organise un afterwork 🍺 le 06/07/2023, l’évènement commencera à 18h.&lt;/p&gt;
+
+&lt;p&gt;Le tout se déroulera au &lt;a href=&quot;https://www.google.com/maps/place/Brass+%26+Co/@48.7110902,2.1643799,15z/data=!4m6!3m5!1s0x47e67faf2a200a71:0xcf27b631cebc3183!8m2!3d48.7110902!4d2.1643799!16s%2Fg%2F11rxrpyfpy?entry=ttu&quot; target=&quot;_blank&quot;&gt;Brass &amp;amp; Co&lt;/a&gt; (26 Mail Pierre Potier, 91190 Gif-sur-Yvette)&lt;/p&gt;
+
+&lt;p&gt;En espérant vous voir nombreux !&lt;/p&gt;
+</description>
+        <pubDate>Thu, 06 Jul 2023 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/social/2023/06/22/Afterwork/</link>
+        <guid isPermaLink="true">http://localhost:4000/social/2023/06/22/Afterwork/</guid>
+        
+        
+        <category>Social</category>
+        
+      </item>
     
       <item>
         <title>Evènement sur l'après-thèse</title>
         <description>&lt;p&gt;Le temps d’un Webinaire, 4 anciens doctorants 🎓 du CEA vous parlent de leur retour d’expérience après avoir emprunté différentes voies:&lt;br /&gt;
-Enseignement 👨‍🏫, Post-doc 🎓, Start-up 🚀 et Industrie 🏭 !&lt;/p&gt;
+Enseignement 👨‍🏫, Maitre de conférence 🎓, Start-up 🚀 et Industrie 🏭 !&lt;/p&gt;
 
 &lt;p&gt;Ca t’intéresse ? Inscris-toi vite ici: &lt;a href=&quot;https://framaforms.org/evenement-apres-these-1685951531&quot; target=&quot;_blank&quot;&gt;https://framaforms.org/… &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Lien de la conférence: &lt;a href=&quot;https://rendez-vous.renater.fr/b36ha-q1ct7-y2b9r&quot; target=&quot;_blank&quot;&gt;https://rendez-vous.renater.fr/…&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 30 Jun 2023 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/webinaire/2023/05/25/Apres-these-copy/</link>
@@ -68,12 +87,16 @@ Départ d’Aix-en-Provence à 17h50&lt;br /&gt;
 Arrivée à Paris Gare de Lyon 22h&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;20 places&lt;/strong&gt; sont ouvertes pour ce voyage.&lt;br /&gt;
-Le coût du voyage s’élèvera a &lt;strong&gt;200€&lt;/strong&gt;, ce qui inclut transport en train, visite et logement partagé avec d’autres membres du voyage.
+Le coût du voyage s’élèvera a &lt;strong&gt;100€&lt;/strong&gt;, ce qui inclut transport en train, visite et logement partagé avec d’autres membres du voyage.
 Les frais de restauration restent à votre charge.
 Ce voyage nécessite de poser un jour de congé le lundi 19 juin, ou d’avoir l’accord de votre manager.&lt;/p&gt;
 
-&lt;p&gt;Les pré-inscriptions ouvrent bientôt !&lt;/p&gt;
+&lt;p&gt;Merci à la Direction CEA Paris-Saclay qui nous a soutenu pour ce voyage.&lt;br /&gt;
+Nous remercions également les instituts JOLIOT, LIST, IRAMIS, ISAS et DAM de nous avoir apporté leur soutien !&lt;/p&gt;
 
+&lt;p&gt;Merci aux personnes ayant participé à l’évènement !!&lt;br /&gt;
+&lt;img src=&quot;img/portfolio/2023-06-17-lagarde.jpg&quot; style=&quot;width:49%&quot; /&gt;
+&lt;img src=&quot;img/portfolio/2023-06-17-iter.jpg&quot; style=&quot;width:49%&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 20 Jun 2023 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/visite/2023/05/23/Cadarache/</link>
@@ -214,28 +237,6 @@ On profitera de cette occasion pour vous glisser quelques détails sur le voyage
         
         
         <category>Visite</category>
-        
-      </item>
-    
-      <item>
-        <title>Afterwork</title>
-        <description>&lt;p&gt;ACTIF organise un afterwork 🍺 le 23/02/2023, l’évènement commencera à 19h au Knight’s pub (5ème arrondissement).&lt;/p&gt;
-
-&lt;p&gt;Si vous souhaitez venir, merci de compléter le formulaire suivant : &lt;a href=&quot;https://evento.renater.fr/survey/cea-ph-d-students-afterwork-23-02-qqkdhlda&quot; target=&quot;_blank&quot;&gt;https://evento.renater.fr/… &lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;En espérant vous voir nombreux !&lt;/p&gt;
-
-&lt;p&gt;ps: Vous aurez à nouveau l’occasion d’acheter les tasses de l’association pour 5€ / unité.&lt;/p&gt;
-
-&lt;p&gt;Localisation de l’évènement:&lt;/p&gt;
-&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2625.6600042632967!2d2.340669415806871!3d48.8456236095594!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e67127a3de42d9%3A0x4a50a1942c8ffc47!2sKnight&amp;#39;s%20Pub!5e0!3m2!1sfr!2sfr!4v1676669003530!5m2!1sfr!2sfr&quot; width=&quot;600&quot; height=&quot;450&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer-when-downgrade&quot;&gt;&lt;/iframe&gt;
-</description>
-        <pubDate>Thu, 23 Feb 2023 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/social/2023/02/14/afterwork_4-copy/</link>
-        <guid isPermaLink="true">http://localhost:4000/social/2023/02/14/afterwork_4-copy/</guid>
-        
-        
-        <category>Social</category>
         
       </item>
     

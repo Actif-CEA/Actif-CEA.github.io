@@ -38,9 +38,14 @@ Départ d'Aix-en-Provence à 17h50
 Arrivée à Paris Gare de Lyon 22h  
 
 **20 places** sont ouvertes pour ce voyage.  
-Le coût du voyage s'élèvera a **200€**, ce qui inclut transport en train, visite et logement partagé avec d'autres membres du voyage.
+Le coût du voyage s'élèvera a **100€**, ce qui inclut transport en train, visite et logement partagé avec d'autres membres du voyage.
 Les frais de restauration restent à votre charge.
 Ce voyage nécessite de poser un jour de congé le lundi 19 juin, ou d'avoir l'accord de votre manager.
 
-Les pré-inscriptions ouvrent bientôt !
 
+Merci à la Direction CEA Paris-Saclay qui nous a soutenu pour ce voyage.  
+Nous remercions également les instituts JOLIOT, LIST, IRAMIS, ISAS et DAM de nous avoir apporté leur soutien !  
+
+Merci aux personnes ayant participé à l'évènement !!  
+<img src="img/portfolio/2023-06-17-lagarde.jpg" style="width:49%">
+<img src="img/portfolio/2023-06-17-iter.jpg" style="width:49%">
