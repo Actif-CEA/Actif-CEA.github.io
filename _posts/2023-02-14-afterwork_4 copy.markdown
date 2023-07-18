@@ -3,8 +3,8 @@ title: Afterwork
 subtitle: Paris Sud
 layout: default
 modal-id: 16
-img: 2023_02_23-afterwork-thumbnail.png
-thumbnail: 2023_02_23-afterwork-thumbnail.png
+img: 2023-02-23-afterwork-thumbnail.png
+thumbnail: 2023-02-23-afterwork-thumbnail.png
 alt: image-alt
 project-date: 2023-02-23
 date-label: 23-02-2023
@@ -13,8 +13,6 @@ category: Social
 ---
 
 ACTIF organise un afterwork 🍺 le 23/02/2023, l’évènement commencera à 19h au Knight's pub (5ème arrondissement).
-
-Si vous souhaitez venir, merci de compléter le formulaire suivant : <a href="https://evento.renater.fr/survey/cea-ph-d-students-afterwork-23-02-qqkdhlda" target="_blank">https://evento.renater.fr/... </a>
 
 En espérant vous voir nombreux !
 

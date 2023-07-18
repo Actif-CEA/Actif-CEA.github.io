@@ -3,8 +3,8 @@ title: Visite musée Curie
 subtitle: Paris 5ème
 layout: default
 modal-id: 17
-img: 2023_02_15-musee_curie_thumbnail.png
-thumbnail: 2023_02_15-musee_curie_thumbnail.png
+img: 2023-02-15-musee_curie_thumbnail.png
+thumbnail: 2023-02-15-musee_curie_thumbnail.png
 alt: image-alt
 project-date: 2023-02-25
 date-label: 25-02-2023
@@ -16,7 +16,7 @@ Une visite du musée Curie est prévue pour le 25/02/2023 à 14h !
 
 (Re)plongez-vous dans l'histoire de la radioactivité ! 
 
-Le nombre de places est limité, inscris-toi vite <a href="https://evento.renater.fr/survey/visite-du-musee-curie-le-25-02-a-14h-ke8oc5x1" target="_blank">ici</a> !
+Le nombre de places est limité, inscris-toi vite !
 
 Pour plus d'information sur le contenu de la visite:
 <a href="https://musee.curie.fr/" target="_blank">https://musee.curie.fr/</a>

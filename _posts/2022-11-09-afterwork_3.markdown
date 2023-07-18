@@ -3,8 +3,8 @@ title: Afterwork
 subtitle: Paris Sud
 layout: default
 modal-id: 15
-img: 2023_01_18-afterwork-thumbnail.png
-thumbnail: 2023_01_18-afterwork-thumbnail.png
+img: 2022-11-09-afterwork-thumbnail.png
+thumbnail: 2022-11-09-afterwork-thumbnail.png
 alt: image-alt
 project-date: 2023-01-18
 date-label: 18-01-2023

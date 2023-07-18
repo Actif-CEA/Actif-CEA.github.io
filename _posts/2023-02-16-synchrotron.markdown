@@ -16,9 +16,6 @@ Nous prévoyons d'organiser une visite groupée du synchrotron soleil situé sur
 
 Cette visite durera une demi journée et se déroulera fin janvier / début février, vous devrez vous rendre sur le site par vos propres moyens.
 
-Pour vous inscrire, merci de compléter le formulaire d'inscription suivant:
-<a href="https://docs.google.com/forms/d/e/1FAIpQLScd-TqpJVhG5j2AQMndZc4rGXeO_3NVcVDactjRV-Ahsj8kpQ/viewform?usp=sf_link" target="_blank">https://docs.google.com/... </a>
-
 Merci aux personnes ayant participé à l'évènement !!  
 <img src="img/portfolio/2023-02-16-synchrotron-img1.jpeg" style="width:49%">
 <img src="img/portfolio/2023-02-16-synchrotron-img2.jpg" style="width:49%">

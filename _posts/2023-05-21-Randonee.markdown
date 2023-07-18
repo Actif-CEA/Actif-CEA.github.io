@@ -22,6 +22,6 @@ Vous souhaitez participer ? Envoyez un petit mail à <a href="">valentin.gilbert
 A bientôt !  
 
 Photo des aventuriers:  
-<img src="img/portfolio/2023_05_22-photo_rando.jpg" style="width:70%">
+<img src="img/portfolio/2023-05-22-photo_rando.jpg" style="width:70%">
 
 Un petit aperçu de l'itinéraire (téléchargeable <a href="/files/rando_fontainebleau.gpx">ici</a>)  

@@ -15,6 +15,3 @@ category: Conference
 Une réunion d'information sur les Risques PsychoSociaux (RPS) aura lieu le 26/04 de 11h à 12h30.
 
 Deux intervenantes du CEA et de l'ED ITFA seront là pour répondre à vos questions !
-
-Pour participer, merci de compléter le formulaire d’inscription suivant:s
-<a href="https://framaforms.org/inscription-a-la-reunion-dinformation-sur-les-risques-psychosociaux-rps-et-sur-la-gestion-de-conflit" target="_blank">https://framaforms.org/... </a>
