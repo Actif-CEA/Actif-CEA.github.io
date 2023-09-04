@@ -5,13 +5,111 @@
     <description>L'Association CEA des Thésards d'Île-de-France (ACTIF) a pour objectifs d'accompagner les étudiants et jeunes chercheurs au CEA.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 18 Jul 2023 20:27:43 +0200</pubDate>
-    <lastBuildDate>Tue, 18 Jul 2023 20:27:43 +0200</lastBuildDate>
-    <generator>Jekyll v3.9.0</generator>
+    <pubDate>Tue, 05 Sep 2023 00:01:52 +0200</pubDate>
+    <lastBuildDate>Tue, 05 Sep 2023 00:01:52 +0200</lastBuildDate>
+    <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <title>Agir</title>
+        <description>&lt;p&gt;L’INSTN organise un colloque sur le climat et les sources de production d’énergie à destination des étudiants, des doctorants et des jeunes ingénieurs. Il aura lieu dans l’amphithéâtre de l’INSTN le 15/09/2023. Deux sessions identiques auront lieu de 8h30 à 12h et de 13h à 16h30.&lt;/p&gt;
+
+&lt;p&gt;A l’issue de ce colloque, un certificat de participation vous sera délivré par l’association pour faire valoir ces heures de formation auprès de votre Ecole Doctorale.&lt;/p&gt;
+
+&lt;p&gt;Le programme est le suivant:&lt;/p&gt;
+&lt;div class=&quot;table-responsive&quot;&gt;
+    &lt;table class=&quot;table table-striped table-hover&quot;&gt;
+    &lt;thead&gt;
+        &lt;tr&gt;
+        &lt;th scope=&quot;col&quot;&gt;Heure&lt;/th&gt;
+        &lt;th scope=&quot;col&quot; class=&quot;text-center&quot;&gt;Programme&lt;/th&gt;
+        &lt;th scope=&quot;col&quot; class=&quot;text-center&quot;&gt;Intervenant&lt;/th&gt;
+        &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;
+            &lt;td colspan=&quot;3&quot;&gt;&lt;b&gt;Session 1&lt;/b&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;th scope=&quot;row&quot;&gt;8h30-9h&lt;/th&gt;
+            &lt;td&gt;Accueil café et stand Poster&lt;/td&gt;   
+            &lt;td&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;th scope=&quot;row&quot;&gt;9h-9h15&lt;/th&gt;
+            &lt;td&gt;Présentation du programme de la matinée&lt;/td&gt;   
+            &lt;td&gt;ACTIF&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;th scope=&quot;row&quot;&gt;9h15-10h&lt;/th&gt;
+            &lt;td&gt;L'utilisation de l'eau dans le système énergétique et son adaptation face au réchauffement climatique&lt;/td&gt;
+            &lt;td&gt;Cécile LAUGIER, Directrice Environnement à EDF&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;th scope=&quot;row&quot;&gt;10h-10h45&lt;/th&gt;
+            &lt;td&gt;Eau et système minier&lt;/td&gt;
+            &lt;td&gt;Christopher Bryan, responsable de l’unité Géomicrobiologie et Monitoring Environnemental au BRGM&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;th scope=&quot;row&quot;&gt;10h45-11h&lt;/th&gt;
+            &lt;td&gt;Pause&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;th scope=&quot;row&quot;&gt;11h-12h&lt;/th&gt;
+            &lt;td&gt;Table ronde&lt;/td&gt;
+            &lt;td&gt;Cécile Laugier, Christopher Bryan, Energies et Sociétés, ACTIF&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td colspan=&quot;3&quot;&gt;&lt;b&gt;Session 2 (in english)&lt;/b&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;th scope=&quot;row&quot;&gt;13h-13h30&lt;/th&gt;
+            &lt;td&gt;Welcome coffee and poster stand&lt;/td&gt;   
+            &lt;td&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;th scope=&quot;row&quot;&gt;13h30-13h45&lt;/th&gt;
+            &lt;td&gt;Présentation of the afternoon program&lt;/td&gt;   
+            &lt;td&gt;ACTIF&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;th scope=&quot;row&quot;&gt;13h45-14h30&lt;/th&gt;
+            &lt;td&gt;The global water cycle&lt;/td&gt;
+            &lt;td&gt;Pascal Maugis, Hydrologue au LCSE&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;th scope=&quot;row&quot;&gt;14h30-15h15&lt;/th&gt;
+            &lt;td&gt;Water issues in agriculture&lt;/td&gt;
+            &lt;td&gt;Thierry Caquet, Directeur Scientifique à l'INRAE&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;th scope=&quot;row&quot;&gt;15h15-15h30&lt;/th&gt;
+            &lt;td&gt;Break&lt;/td&gt;
+            &lt;td&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;th scope=&quot;row&quot;&gt;15h50-16h30&lt;/th&gt;
+            &lt;td&gt;Round table&lt;/td&gt;
+            &lt;td&gt;Pascal Maugis, Thierry Caquet, Energies et Sociétés, ACTIF&lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/tbody&gt;
+    &lt;/table&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Localisation de l’évènement:&lt;/p&gt;
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2632.048935102247!2d2.151105576744314!3d48.723656610178345!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e67f15de017729%3A0xd00461418db632df!2sINSTN!5e0!3m2!1sfr!2sfr!4v1693863628540!5m2!1sfr!2sfr&quot; width=&quot;600&quot; height=&quot;450&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer-when-downgrade&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Fri, 15 Sep 2023 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/colloque/2023/09/03/colloque/</link>
+        <guid isPermaLink="true">http://localhost:4000/colloque/2023/09/03/colloque/</guid>
+        
+        
+        <category>Colloque</category>
+        
+      </item>
     
       <item>
         <title>Assemblée Générale</title>
-        <description>&lt;p&gt;L’Assemblée Générale de l’association se tiendra au mois de septembre (première quinzaine).&lt;/p&gt;
+        <description>&lt;p&gt;L’Assemblée Générale de l’association se tiendra le 13 septembre au soir à partir de 18h au Knight’s pub (75005 Paris).&lt;/p&gt;
 
 &lt;p&gt;C’est le moment de venir découvrir l’association autour d’un petit verre 🍺 et pourquoi pas, de faire partie du bureau !&lt;/p&gt;
 
@@ -20,11 +118,10 @@ Retour d’activités sur 2022-2023&lt;br /&gt;
 vote des bilans &lt;br /&gt;
 élection du nouveau bureau et bien sûr, célébration du nouveau bureau 🎆🎉 !&lt;/p&gt;
 
-&lt;p&gt;Le lieu ainsi que la date vous seront prochainement communiqués,&lt;/p&gt;
+&lt;p&gt;Nous espérons que vous avez passés de bonnes vacances 🏖️ !&lt;/p&gt;
 
-&lt;!-- Si vous souhaitez venir, merci de compléter le formulaire suivant : &lt;a href=&quot;...&quot; target=&quot;_blank&quot;&gt;... &lt;/a&gt; --&gt;
-
-&lt;p&gt;A bientôt et bonnes vacances 🏖️ !&lt;/p&gt;
+&lt;p&gt;Localisation de l’évènement:&lt;/p&gt;
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2625.6600042632967!2d2.340669415806871!3d48.8456236095594!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e67127a3de42d9%3A0x4a50a1942c8ffc47!2sKnight&amp;#39;s%20Pub!5e0!3m2!1sfr!2sfr!4v1676669003530!5m2!1sfr!2sfr&quot; width=&quot;600&quot; height=&quot;450&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer-when-downgrade&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Fri, 15 Sep 2023 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/social/2023/07/17/General-meeting/</link>
@@ -208,28 +305,6 @@ On profitera de cette occasion pour vous glisser quelques détails sur le voyage
         
         
         <category>Social</category>
-        
-      </item>
-    
-      <item>
-        <title>Visite Synchrotron</title>
-        <description>&lt;p&gt;Nous prévoyons d’organiser une visite groupée du synchrotron soleil situé sur le site de L’Orme des Merisiers 91190 Saint-Aubin.&lt;/p&gt;
-
-&lt;p&gt;Cette visite durera une demi journée et se déroulera fin janvier / début février, vous devrez vous rendre sur le site par vos propres moyens.&lt;/p&gt;
-
-&lt;p&gt;Merci aux personnes ayant participé à l’évènement !!&lt;br /&gt;
-&lt;img src=&quot;img/portfolio/2023-02-16-synchrotron-img1.jpeg&quot; style=&quot;width:49%&quot; /&gt;
-&lt;img src=&quot;img/portfolio/2023-02-16-synchrotron-img2.jpg&quot; style=&quot;width:49%&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Localisation de l’évènement:&lt;/p&gt;
-&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10531.084833855268!2d2.136547768370235!3d48.70985381910756!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e67f6f9b10bb53%3A0xedec3da4ea9d1d91!2sSynchrotron%20SOLEIL%20-%20CNRS%20-%20CEA%20Paris-Saclay!5e0!3m2!1sfr!2sfr!4v1672049912806!5m2!1sfr!2sfr&quot; width=&quot;600&quot; height=&quot;450&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer-when-downgrade&quot;&gt;&lt;/iframe&gt;
-</description>
-        <pubDate>Tue, 07 Mar 2023 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/visite/2023/02/16/synchrotron/</link>
-        <guid isPermaLink="true">http://localhost:4000/visite/2023/02/16/synchrotron/</guid>
-        
-        
-        <category>Visite</category>
         
       </item>
     

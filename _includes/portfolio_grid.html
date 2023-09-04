@@ -29,11 +29,13 @@
         
         <div class="row">
             <!-- Past projects & events -->
+            {% assign pCount=0 %}
             {% for post in site.posts %}
                 {% if post.project-date %}
                     {% assign postDate = post.project-date | date: '%s' %}
-                    {% if currentDate > postDate %}
+                    {% if currentDate > postDate and pCount < 12 %}
                         {% include portfolio_element.html %}
+                        {% assign pCount = pCount | plus: 1 %}
                     {% endif %}
                 {% endif %}
             {% endfor %}
