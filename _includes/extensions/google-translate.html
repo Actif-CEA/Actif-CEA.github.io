@@ -14,11 +14,7 @@
     {% for item in translate_langs %}
       <li>
         <a href="#" class="lang-select" data-lang="{{ item.lang }}">
-          {% if item.img %}
-          <img src="{{ item.img }}" title="{{ item.text }}">
-          {% else %}
-            {{ item.text }}
-          {% endif %}
+          {{ item.lang }}
         </a>
       </li>
     {% endfor %}

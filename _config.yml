@@ -11,10 +11,8 @@ description: "L'Association CEA des Thésards d'Île-de-France (ACTIF) a pour ob
 # Lang Translation
 translate_langs:
   - lang: en
-    img: https://cdn.countryflags.com/thumbs/united-states-of-america/flag-400.png
     text: English
   - lang: fr
-    img: https://cdn.countryflags.com/thumbs/france/flag-400.png
     text: French
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
