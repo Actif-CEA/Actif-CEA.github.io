@@ -1,0 +1,13 @@
+---
+---
+
+$baseurl: "{{ site.baseurl }}";
+$primary-color: {{ site.data.template.color.primary }};
+$secondary-color: {{ site.data.template.color.secondary }};
+$secondary-dark-color: {{ site.data.template.color.secondary-dark }};
+$muted-color: {{ site.data.template.color.muted }};
+$primary-font: {{ site.data.template.font.primary }};
+$secondary-font: {{ site.data.template.font.secondary }};
+
+@import "bootstrap.min";
+@import "agency";
