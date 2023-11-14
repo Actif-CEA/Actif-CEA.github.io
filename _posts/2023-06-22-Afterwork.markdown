@@ -1,6 +1,6 @@
 ---
 title: Afterwork
-subtitle: Git-sur-Yvette
+subtitle: Gif-sur-Yvette
 layout: default
 modal-id: 24
 img: 2023-07-06-Afterwork.png
@@ -8,7 +8,7 @@ thumbnail: 2023-07-06-Afterwork.png
 alt: image-alt
 project-date: 2023-07-06
 date-label: 06-07-2023
-location: Git-sur-Yvette
+location: Gif-sur-Yvette
 category: Social
 ---
 
