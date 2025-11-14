@@ -6,6 +6,8 @@ ACTIF CEA Website is based on the template [Agency bootstrap theme ](https://sta
 
 ### Portfolio 
 
+Main page content is in '_includes' and modifications should be directly in the HTML.
+
 Portfolio projects are in '/_posts'
 
 Images are in '/img/portfolio'
