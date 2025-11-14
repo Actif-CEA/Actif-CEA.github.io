@@ -32,6 +32,10 @@ category: Category of event
 --> Here your can write anything you want ! even html content !
 ```
 
+### Publish modifications
+
+Once you are done with your modifications, simply push them (commit+push). Github will automatically refresh the website based on the modifications in a few seconds/minutes.
+
 # Website link
 
 https://actif-cea.github.io/
