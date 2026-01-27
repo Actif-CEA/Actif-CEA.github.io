@@ -33,7 +33,7 @@
             {% for post in site.posts %}
                 {% if post.project-date %}
                     {% assign postDate = post.project-date | date: '%s' %}
-                    {% if currentDate > postDate and pCount < 12 %}
+                    {% if currentDate > postDate and pCount < 9 %}
                         {% include portfolio_element.html %}
                         {% assign pCount = pCount | plus: 1 %}
                     {% endif %}
