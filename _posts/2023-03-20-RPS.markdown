@@ -6,7 +6,7 @@ modal-id: 18
 img: 2023-03-20-RPS-thumbnail.png
 thumbnail: 2023-03-20-RPS-thumbnail.png
 alt: image-alt
-project-date: 2023-04-26
+# project-date: 2023-04-26
 date-label: 26-04-2023
 location: Paris Saclay
 category: Conference
