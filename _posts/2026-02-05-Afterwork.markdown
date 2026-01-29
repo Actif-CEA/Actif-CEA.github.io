@@ -6,7 +6,7 @@ modal-id: 30
 img: 2026-02-05-afterwork.jpg
 thumbnail: 2026-02-05-afterwork.jpg
 alt: image-alt
-project-date: 2025-02-05
+project-date: 2026-02-05
 date-label: 05-02-2026
 location: Massy
 category: Social
