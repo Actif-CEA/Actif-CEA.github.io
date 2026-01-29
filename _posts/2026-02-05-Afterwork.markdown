@@ -7,7 +7,7 @@ img: 2026-02-05-afterwork.jpg
 thumbnail: 2026-02-05-afterwork.jpg
 alt: image-alt
 project-date: 2026-02-05
-date-label: 2026-02-05
+date-label: 05-02-2025
 location: Massy
 category: Social
 ---
