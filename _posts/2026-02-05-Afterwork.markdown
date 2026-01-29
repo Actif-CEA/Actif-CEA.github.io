@@ -3,8 +3,8 @@ title: Afterwork
 subtitle: Massy
 layout: default
 modal-id: 30
-img: 2026-02-05-afterwork.jpeg
-thumbnail: 2026-02-05-afterwork.jpeg
+img: 2026-02-05-afterwork.jpg
+thumbnail: 2026-02-05-afterwork.jpg
 alt: image-alt
 project-date: 2026-02-05
 date-label: 2026-02-05
