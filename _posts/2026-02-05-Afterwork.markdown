@@ -13,7 +13,7 @@ category: Social
 ---
 
 ACTIF is organizing an afterwork at Deer'N'Beer in Massy on 05/02/2026. We'll meet starting at 6 PM.
-We hope to see many of you there!
+We hope to see many of you there !
 
 ACTIF organise un afterwork au Deer'N'Beer à Massy le 05/02/2026. On se retrouve à partir de 18h.
 En espérant vous voir nombreux !
